@@ -1,0 +1,2821 @@
+transaction_id,items_string,basket_size,basket_total
+0,"citrus fruit,semi-finished bread,margarine,ready soups",4,36.739443631232405
+1,"tropical fruit,yogurt,coffee",3,24.50190254230623
+2,"pip fruit,yogurt,cream cheese,meat spreads",4,25.140732217662013
+3,"other vegetables,whole milk,condensed milk,long life bakery product",4,23.24818182530108
+4,"whole milk,cereals",2,18.44919054672303
+5,"frankfurter,rolls/buns,soda",3,16.815592131878542
+6,"chicken,tropical fruit",2,20.039735129884047
+7,"butter,sugar,fruit/vegetable juice,newspapers",4,12.206550928449287
+8,"butter milk,pastry",2,19.96290011670372
+9,"yogurt,beverages,bottled water,specialty bar",4,22.724581936634515
+10,"beef,grapes,detergent",3,27.019513087900975
+11,"pastry,soda",2,14.994228327633662
+12,"root vegetables,other vegetables,whole milk,dessert",4,17.186436761257593
+13,"citrus fruit,zwieback,newspapers",3,16.987032882842982
+14,"berries,yogurt",2,18.902121994185947
+15,"pastry,bottled water",2,8.38245545219441
+16,"whole milk,curd,yogurt,pastry",4,29.489020116677132
+17,"rolls/buns,pastry,sugar",3,13.44590846893865
+18,"rolls/buns,pastry,soda",3,19.44173097438847
+19,"curd cheese,coffee",2,5.984532341701586
+20,"whole milk,meat spreads,soda",3,27.892023643434875
+21,"other vegetables,whole milk,rolls/buns,sugar",4,18.91968293933369
+22,"frozen meals,coffee",2,14.557768584797978
+23,"root vegetables,onions,hard cheese,frozen vegetables",4,20.813752077605347
+24,"coffee,newspapers",2,3.5665226954204203
+25,"berries,yogurt",2,18.902121994185947
+26,"fruit/vegetable juice,salty snack,candles",3,18.391368654808907
+27,"citrus fruit,butter milk,yogurt,cream cheese",4,38.9619150987057
+28,"grapes,photo/film",2,11.799783666495497
+29,"whole milk,yogurt,brown bread",3,23.186249174264645
+30,"citrus fruit,tropical fruit",2,26.185669299570506
+31,"soda,misc. beverages",2,15.362030040115688
+32,"frankfurter,rolls/buns,bottled water",3,10.203819256439292
+33,"rolls/buns,fruit/vegetable juice",2,6.974559119605839
+34,"tropical fruit,pip fruit",2,16.17003242208442
+35,"packaged fruit/vegetables,bottled water",2,12.954293112422587
+36,"berries,whipped/sour cream",2,19.15177709700067
+37,"citrus fruit,berries,uht-milk,processed cheese",4,45.818500621814685
+38,"tropical fruit,whole milk,yogurt",3,30.55476166677988
+39,"whole milk,cream cheese,soda",3,23.63114304619336
+40,"pastry,soda",2,14.994228327633662
+41,"frankfurter,dessert",2,7.18885449712689
+42,"berries,soda",2,20.505946228094786
+43,"tropical fruit,other vegetables,coffee",3,19.84483171632134
+44,"rolls/buns,instant food products",2,5.394361247989927
+45,"whole milk,frozen vegetables",2,17.536804100770052
+46,"frankfurter,rolls/buns",2,7.846171582643876
+47,"pasta,popcorn",2,9.180351576570917
+48,"coffee,shopping bags",2,15.658104754318888
+49,"whole milk,butter,dessert,rolls/buns",4,22.904316318818147
+50,"frankfurter,soda,chewing gum",3,23.86036171636166
+51,"tropical fruit,specialty cheese,bottled water",3,24.419623144841896
+52,"beverages,soda",2,20.867352975750496
+53,"whole milk,pastry,long life bakery product",3,16.160254292343545
+54,"whole milk,cream cheese,cereals,dog food",4,34.97470026326124
+55,"whole milk,salt",2,15.898812962040452
+56,"dessert,ice cream",2,12.398689392046316
+57,"other vegetables,ice cream",2,11.317029320149437
+58,"other vegetables,bottled water",2,5.066173163136357
+59,"herbs,candy",2,15.62542942697354
+60,"frankfurter,rolls/buns",2,7.846171582643876
+61,"curd,rolls/buns",2,11.756061910254022
+62,"whole milk,bottled water,newspapers",3,11.977029493689484
+63,"rolls/buns,chewing gum",2,15.939774877992727
+64,"citrus fruit,pastry",2,17.811368485968543
+65,"rolls/buns,pastry,soda",3,19.44173097438847
+66,"condensed milk,sugar,coffee,shopping bags",4,29.035912620119326
+67,"whole milk,beverages,uht-milk,soda",4,41.50707053033274
+68,"beverages,specialty bar",2,13.00133794751327
+69,"bottled water,fruit/vegetable juice",2,4.884704146646448
+70,"cleaner,female sanitary products",2,15.890028384083946
+71,"misc. beverages,newspapers",2,7.221934551321999
+72,"whole milk,mustard,bottled water",3,23.45100001090601
+73,"meat,other vegetables,butter,rolls/buns",4,24.89912351951117
+74,"whole milk,whipped/sour cream,semi-finished bread,margarine",4,29.566302993752483
+75,"citrus fruit,whole milk,rolls/buns",3,25.024120113777446
+76,"hard cheese,rolls/buns,bottled water,newspapers",4,14.96537037006662
+77,"cream cheese,rolls/buns,soda,chocolate",4,33.86371028722117
+78,"whole milk,beverages",2,20.687989185968924
+79,"rolls/buns,soda",2,13.416923195989472
+80,"pip fruit,other vegetables,fruit/vegetable juice",3,7.006505792275439
+81,"root vegetables,other vegetables,yogurt",3,11.971790755892512
+82,"root vegetables,whole milk,pet care,detergent",4,25.771953926219442
+83,"pickled vegetables,coffee",2,8.483480488003604
+84,"turkey,pip fruit,salad dressing,pastry",4,28.87686619404022
+85,"citrus fruit,tropical fruit",2,26.185669299570506
+86,"citrus fruit,sugar,sauces",3,19.69652980153886
+87,"citrus fruit,packaged fruit/vegetables,yogurt,bottled water",4,32.106450135317964
+88,"uht-milk,coffee",2,14.586858430108594
+89,"beef,citrus fruit,other vegetables,yogurt",4,36.50720661096928
+90,"other vegetables,yogurt,brown bread,instant coffee",4,22.011994326060375
+91,"bottled water,cake bar",2,12.19369191496505
+92,"tropical fruit,soda,salty snack",3,26.802797930766463
+93,"grapes,root vegetables",2,4.058355017497355
+94,"domestic eggs,brown bread,photo/film",3,21.6990099997492
+95,"tropical fruit,whole milk",2,23.18916535145405
+96,"margarine,hygiene articles",2,18.624690773080918
+97,"soda,specialty chocolate",2,14.252408128060054
+98,"frankfurter,rolls/buns",2,7.846171582643876
+99,"salt,salty snack,cookware",3,25.071916112414247
+100,"other vegetables,butter,specialty chocolate",3,13.868084419538757
+101,"frankfurter,whole milk,butter milk",3,26.126818033646888
+102,"whole milk,soda",2,17.759477308687757
+103,"whole milk,hygiene articles",2,17.316958068994033
+104,"citrus fruit,whole milk,curd,soft cheese",4,37.80795245306675
+105,"pastry,fruit/vegetable juice",2,8.551864251250029
+106,"other vegetables,bottled water",2,5.066173163136357
+107,"berries,white bread",2,25.63500927599737
+108,"berries,coffee",2,14.273723313839561
+109,"other vegetables,butter milk,frozen meals,bottled water",4,30.824836451259618
+110,"rolls/buns,newspapers",2,5.276827707195784
+111,"whole milk,frozen dessert,salty snack,napkins",4,27.055836361426646
+112,"tropical fruit,butter milk,rolls/buns,bottled water",4,35.1423512508559
+113,"butter milk,yogurt",2,21.303688653630555
+114,"hard cheese,pastry,napkins",3,16.276810106136125
+115,"onions,whole milk,beverages,frozen dessert",4,35.43683345573715
+116,"yogurt,chocolate",2,21.940717669051928
+117,"domestic eggs,rolls/buns,dish cleaner,hygiene articles",4,24.842423079984137
+118,"meat,other vegetables,whole milk,whipped/sour cream",4,30.980357698977585
+119,"dish cleaner,bathroom cleaner,hygiene articles,napkins",4,20.15228301622236
+120,"other vegetables,whole milk,rolls/buns,instant food products",4,16.89294349678396
+121,"tropical fruit,other vegetables",2,17.1076340813419
+122,"baking powder,bottled water,salty snack,chewing gum",4,27.896025115924953
+123,"frankfurter,yogurt",2,10.764265251214901
+124,"domestic eggs,rolls/buns,specialty bar,napkins",4,13.50133180645355
+125,"other vegetables,pet care",2,7.580450781985151
+126,"soda,chewing gum",2,20.46169278047259
+127,"root vegetables,pastry,bottled water,male cosmetics",4,15.037233891037063
+128,"berries,pet care,cake bar,shopping bags",4,39.16540233201341
+129,"whole milk,oil,canned fruit,fruit/vegetable juice",4,27.055812482678846
+130,"soda,misc. beverages",2,15.362030040115688
+131,"bottled water,soda",2,11.327068223030082
+132,"tropical fruit,other vegetables,rolls/buns",3,21.555136728096706
+133,"citrus fruit,uht-milk,cream cheese,frozen vegetables",4,38.25463458152126
+134,"dessert,oil,cat food,soda",4,32.45747794301004
+135,"coffee,hygiene articles",2,11.264098944520383
+136,"rolls/buns,brown bread,bottled water",3,13.835746420035946
+137,"bottled water,misc. beverages,cling film/bags",3,16.01771171871843
+138,"herbs,bottled water",2,11.053571217772653
+139,"yogurt,rolls/buns",2,11.813098962080637
+140,"beef,root vegetables",2,16.5441930499587
+141,"whole milk,honey,waffles",3,27.93908598913879
+142,"other vegetables,whole milk,cream cheese",3,17.37024798629963
+143,"whole milk,rolls/buns,newspapers",3,14.066884466648876
+144,"frankfurter,margarine,dental care",3,20.894179829705088
+145,"other vegetables,salty snack",2,6.142794278871781
+146,"bottled water,shopping bags",2,15.278554793134859
+147,"other vegetables,whipped/sour cream,specialty cheese,domestic eggs",4,23.015960086566615
+148,"whole milk,cream cheese,soda,fruit/vegetable juice",4,26.15819951904439
+149,"pastry,bottled water",2,8.38245545219441
+150,"frankfurter,soda",2,12.368089485123736
+151,"dessert,candy",2,10.71969144423412
+152,"other vegetables,packaged fruit/vegetables,uht-milk,bottled water",4,27.51247939689268
+153,"beverages,rolls/buns,soda",3,25.314855622505302
+154,"brown bread,soda,salty snack,shopping bags",4,32.35519255759068
+155,"whole milk,cream cheese,coffee",3,17.398920131938134
+156,"citrus fruit,other vegetables,soda",3,23.464506746145155
+157,"other vegetables,shopping bags",2,15.629432608680386
+158,"whole milk,dessert,bottled water",3,14.937889994486326
+159,"soda,misc. beverages",2,15.362030040115688
+160,"whole milk,curd",2,16.098616022952307
+161,"white bread,brown bread",2,21.129079696622973
+162,"brown bread,sugar,hygiene articles",3,18.531095452811513
+163,"coffee,detergent,hygiene articles,photo/film",4,31.115499467640667
+164,"other vegetables,yogurt",2,10.074121804666772
+165,"yogurt,bottled water,dishes",3,22.29707783195989
+166,"bottled water,candy",2,9.287153556791717
+167,"packaged fruit/vegetables,seasonal products",2,19.495329188284664
+168,"other vegetables,margarine",2,12.806314952880921
+169,"herbs,yogurt",2,16.06151985930307
+170,"citrus fruit,spread cheese,rolls/buns,soda",4,34.224330200135846
+171,"soda,female sanitary products",2,21.537187669465084
+172,"white bread,bottled water,soda,waffles",4,32.98209761732066
+173,"coffee,chewing gum,chocolate marshmallow",3,27.67972612538923
+174,"citrus fruit,bottled water",2,14.144208381364962
+175,"frankfurter,rolls/buns",2,7.846171582643876
+176,"yogurt,fruit/vegetable juice,newspapers",3,10.72197784861784
+177,"root vegetables,other vegetables",2,4.606194440566682
+178,"onions,fruit/vegetable juice",2,5.365497268838259
+179,"rolls/buns,soda,snack products,newspapers",4,21.011597333169455
+180,"butter,fruit/vegetable juice,newspapers",3,9.232952884664439
+181,"fruit/vegetable juice,long life bakery product",2,3.87244622734249
+182,"pip fruit,whole milk,bottled water,candy",4,19.848134146328274
+183,"cling film/bags,pot plants",2,21.714970690009956
+184,"chicken,pastry",2,11.665434316282088
+185,"whipped/sour cream,pastry,specialty bar",3,14.74346471753699
+186,"root vegetables,brown bread",2,8.928265050711463
+187,"rolls/buns,soda",2,13.416923195989472
+188,"coffee,long life bakery product",2,4.0825873894709
+189,"pip fruit,whole milk,canned fish",3,14.355942055415822
+190,"rolls/buns,spices",2,6.446845678731805
+191,"beverages,pastry,bottled water",3,20.28038787871024
+192,"beef,citrus fruit,other vegetables,rolls/buns",4,33.58911294239826
+193,"root vegetables,whole milk,detergent",3,20.900028633575232
+194,"yogurt,bottled water",2,9.723243989121245
+195,"frankfurter,root vegetables,newspapers",3,6.125662947555787
+196,"tropical fruit,domestic eggs,rolls/buns,pastry",4,29.900735317194354
+197,"coffee,soda",2,11.70661818421411
+198,"tropical fruit,other vegetables",2,17.1076340813419
+199,"meat,other vegetables",2,14.575049521383939
+200,"rolls/buns,pastry,newspapers",3,11.30163548559478
+201,"whole milk,rolls/buns,detergent",3,23.4498623291043
+202,"whole milk,domestic eggs,rolls/buns,soda",4,27.23629625548216
+203,"whole milk,hard cheese,chocolate marshmallow",3,29.571208007700378
+204,"curd,butter milk,yogurt,beverages",4,40.5101803436456
+205,"chicken,butter,newspapers",3,12.346522949696496
+206,"yogurt,pastry,coffee",3,16.12760172870427
+207,"pastry,coffee",2,8.76200541337844
+208,"chicken,beef,specialty chocolate",3,25.57013821544144
+209,"whole milk,frozen meals,rolls/buns",3,25.05813035602643
+210,"rolls/buns,canned fish",2,8.242464112634071
+211,"curd,uht-milk,artif. sweetener,dental care",4,33.419678865309166
+212,"beef,berries,onions,rolls/buns",4,33.46899322033511
+213,"yogurt,hygiene articles,newspapers,shopping bags",4,29.642729804647193
+214,"bottled water,candy",2,9.287153556791717
+215,"frankfurter,beef,butter",3,23.92176438599446
+216,"rolls/buns,soda,snack products,shopping bags",4,33.10317939206792
+217,"whole milk,pastry,bottled water,hygiene articles",4,25.699413521188443
+218,"rolls/buns,newspapers",2,5.276827707195784
+219,"yogurt,specialty bar",2,8.46900183632327
+220,"whipped/sour cream,specialty bar",2,8.718656939137993
+221,"beverages,rolls/buns",2,16.345435073270636
+222,"rolls/buns,shopping bags",2,17.368409766094253
+223,"bottled water,soda",2,11.327068223030082
+224,"spread cheese,rolls/buns,bottled water,newspapers",4,16.655321677568022
+225,"tropical fruit,spread cheese,rolls/buns,soda",4,36.83687808456725
+226,"chicken,onions,herbs,hygiene articles",4,25.701892187388495
+227,"beef,tropical fruit,root vegetables,yogurt",4,38.30889795728549
+228,"frankfurter,rolls/buns,mustard",3,20.14946716030138
+229,"grapes,soda",2,11.130106615506282
+230,"beverages,rolls/buns",2,16.345435073270636
+231,"ice cream,sugar,flower (seeds)",3,21.97828668223049
+232,"dessert,beverages,bottled water",3,18.045765661549066
+233,"berries,other vegetables,whole milk,whipped/sour cream",4,30.650359345794705
+234,"vinegar,oil",2,8.896804837520477
+235,"rolls/buns,soda,specialty bar",3,14.520328716986914
+236,"rolls/buns,newspapers",2,5.276827707195784
+237,"onions,other vegetables,flour",3,10.227723792316707
+238,"tropical fruit,whole milk,rolls/buns",3,27.636667998208857
+239,"meat,rolls/buns,soda,specialty bar",4,26.38685274902991
+240,"whole milk,dessert",2,12.580242320690912
+241,"pet care,bottled water",2,7.229572966439624
+242,"root vegetables,other vegetables,soda,shopping bags",4,26.49652210914079
+243,"frozen dessert,semi-finished bread",2,14.973608826399866
+244,"root vegetables,whole milk,yogurt,rolls/buns",4,22.500824672759467
+245,"root vegetables,whole milk,butter,coffee",4,19.301494697030705
+246,"soda,newspapers",2,9.798745609675644
+247,"whole milk,chewing gum",2,20.282328990691013
+248,"root vegetables,pot plants",2,16.345185087193702
+249,"cream cheese,spread cheese,rolls/buns",3,19.34001468083723
+250,"citrus fruit,tropical fruit,pip fruit",3,27.956593129653967
+251,"citrus fruit,whole milk",2,20.57661746702264
+252,"whole milk,yogurt",2,16.15565307477892
+253,"berries,whole milk,whipped/sour cream,domestic eggs",4,32.97115015649336
+254,"packaged fruit/vegetables,whole milk,rolls/buns,pastry",4,29.859012623234065
+255,"frankfurter,soda",2,12.368089485123736
+256,"other vegetables,whipped/sour cream",2,10.323776907481495
+257,"beef,other vegetables",2,17.355049588073904
+258,"frozen meals,misc. beverages",2,18.213180440699556
+259,"packaged fruit/vegetables,pickled vegetables",2,16.342928291651333
+260,"berries,frozen vegetables,pet care,instant coffee",4,30.062474734729165
+261,"bottled water,soda,chewing gum,napkins",4,25.740447792929707
+262,"ice cream,rolls/buns",2,13.056006477563303
+263,"frankfurter,citrus fruit,tropical fruit,rolls/buns",4,34.03184088221438
+264,"beef,root vegetables,whole milk,cream cheese",4,31.205915546917392
+265,"sugar,hygiene articles",2,11.500499353325788
+266,"berries,whipped/sour cream",2,19.15177709700067
+267,"yogurt,beverages,coffee",3,22.000726376821103
+268,"potato products,flower (seeds)",2,24.070604822897447
+269,"chicken,other vegetables,salt",3,15.457908229811395
+270,"fish,cream cheese,coffee",3,14.727299868422572
+271,"other vegetables,misc. beverages",2,9.101134980221964
+272,"tropical fruit,whole milk",2,23.18916535145405
+273,"whole milk,cake bar,newspapers",3,19.455426061063704
+274,"whole milk,rolls/buns,chocolate",3,27.812680759933997
+275,"rolls/buns,soda",2,13.416923195989472
+276,"citrus fruit,tropical fruit,pip fruit,other vegetables",4,30.66511861899491
+277,"sliced cheese,pastry,newspapers",3,17.786345700128557
+278,"root vegetables,whipped/sour cream",2,9.512920369366293
+279,"packaged fruit/vegetables,pot plants",2,25.044161574595133
+280,"whole milk,cream cheese",2,14.661722496958692
+281,"soda,shopping bags",2,21.89032766857411
+282,"frankfurter,popcorn",2,5.609754516636542
+283,"frankfurter,rolls/buns",2,7.846171582643876
+284,"frozen fish,newspapers",2,10.969662481025443
+285,"tropical fruit,newspapers",2,15.228433652441934
+286,"specialty chocolate,pot plants",2,19.730503714793347
+287,"citrus fruit,napkins,shopping bags",3,27.628575165570698
+288,"whole milk,pastry,detergent,candles",4,37.457210853175525
+289,"other vegetables,whole milk,white bread,chewing gum",4,37.08933807716921
+290,"whole milk,rolls/buns,shopping bags",3,26.158466525547343
+291,"other vegetables,chewing gum",2,14.200797720578862
+292,"whole milk,whipped/sour cream,baking powder",3,27.01714459895442
+293,"rolls/buns,coffee",2,7.18470028173425
+294,"ice cream,newspapers",2,9.437828891249474
+295,"whole milk,frozen meals,newspapers",3,21.439952769712605
+296,"salt,dog food,long life bakery product",3,19.10798993611143
+297,"other vegetables,whole milk,yogurt",3,18.864178564119864
+298,"tropical fruit,oil,cat food",3,34.096980424538515
+299,"other vegetables,butter milk,frozen fish,salty snack",4,30.221224037760972
+300,"artif. sweetener,soda,photo/film",3,25.472255525863307
+301,"frankfurter,whole milk,coffee,detergent",4,25.138226253218008
+302,"whole milk,newspapers",2,9.61938181989407
+303,"domestic eggs,hygiene articles,photo/film,flower soil/fertilizer",4,25.72172622213941
+304,"cream cheese,margarine,tea",3,21.499067366800716
+305,"citrus fruit,onions",2,14.625001503556774
+306,"other vegetables,whipped/sour cream,roll products",3,17.33951868856643
+307,"onions,domestic eggs,soda,hygiene articles",4,25.364078954802427
+308,"rolls/buns,long life bakery product",2,5.792892401246263
+309,"ice cream,long life bakery product",2,9.953893585299953
+310,"coffee,fruit/vegetable juice,dishes",3,17.83808795066912
+311,"whole milk,butter,pasta,misc. beverages",4,28.028503597529987
+312,"citrus fruit,berries,butter milk,yogurt",4,44.626775040060224
+313,"margarine,newspapers",2,10.927114523980956
+314,"butter milk,yogurt",2,21.303688653630555
+315,"whole milk,rice",2,19.68496450225853
+316,"whole milk,white bread",2,22.888540356590344
+317,"grapes,zwieback,soda,waffles",4,23.057799527492065
+318,"uht-milk,bottled water",2,14.207308468924566
+319,"yogurt,margarine",2,17.46338577886581
+320,"frankfurter,other vegetables,specialty cheese,chewing gum",4,25.26233353551346
+321,"whole milk,pastry",2,14.814864537852088
+322,"dessert,bottled water,soda",3,15.1172537842679
+323,"butter,rolls/buns,salt",3,17.432830200714594
+324,"soda,misc. beverages",2,15.362030040115688
+325,"whole milk,frozen vegetables",2,17.536804100770052
+326,"bottled water,soda",2,11.327068223030082
+327,"bottled water,soda,chewing gum",3,22.819340454268
+328,"frankfurter,turkey,citrus fruit",3,22.67862947913067
+329,"ice cream,coffee,waffles",3,18.902247262941266
+330,"uht-milk,vinegar,waffles,chocolate",4,35.68091294488393
+331,"popcorn,candy",2,9.140591463743775
+332,"soda,candy",2,15.898926432230969
+333,"uht-milk,instant coffee",2,16.756937217037027
+334,"whole milk,soda,misc. beverages,shopping bags",4,37.072993918908224
+335,"cat food,dish cleaner,shopping bags",3,32.26026193688068
+336,"root vegetables,skin care",2,13.396202133836287
+337,"finished products,other vegetables,soda,fruit/vegetable juice",4,26.37408569513027
+338,"other vegetables,yogurt,oil,dental care",4,24.669063073587928
+339,"other vegetables,nut snack",2,4.514219470587747
+340,"yogurt,newspapers",2,8.194921375766807
+341,"other vegetables,sugar",2,5.68212353312579
+342,"dessert,white bread",2,17.88866915837507
+343,"citrus fruit,tropical fruit,pip fruit,long life bakery product",4,29.301982884145424
+344,"turkey,whole milk,uht-milk,fruit/vegetable juice",4,30.660173863105328
+345,"grapes,chocolate,light bulbs",3,29.61015198238612
+346,"bottled water,pot plants",2,16.805163809763375
+347,"prosecco,hygiene articles,pot plants",3,27.329531886671933
+348,"uht-milk,soda,dish cleaner,napkins",4,30.578891506674317
+349,"tropical fruit,pasta,bottled water",3,23.726022261619818
+350,"yogurt,uht-milk,rolls/buns",3,23.662759757209788
+351,"rolls/buns,coffee",2,7.18470028173425
+352,"whole milk,brown bread",2,15.820652858938816
+353,"brown bread,chocolate",2,21.60571745321182
+354,"other vegetables,yogurt,cream cheese",3,15.945787542172372
+355,"citrus fruit,cake bar,baby cosmetics,shopping bags",4,47.49318190679367
+356,"root vegetables,whole milk,yogurt,frozen potato products",4,25.20760077131059
+357,"domestic eggs,seasonal products,shopping bags",3,26.848907169036533
+358,"domestic eggs,specialty bar,seasonal products,shopping bags",4,27.952312690033974
+359,"bottled water,soda",2,11.327068223030082
+360,"tropical fruit,sliced cheese,domestic eggs,zwieback",4,34.73178486816159
+361,"frozen potato products,pot plants",2,21.60179488127389
+362,"frankfurter,other vegetables,zwieback",3,10.47834154006247
+363,"frozen potato products,bottled water,soda",3,18.481346968336013
+364,"tropical fruit,dessert,sweet spreads,fruit/vegetable juice",4,34.63059234255337
+365,"rolls/buns,brown bread",2,11.47809874624053
+366,"citrus fruit,tropical fruit,whole milk,coffee",4,37.71292369400304
+367,"yogurt,softener",2,9.090038971854222
+368,"soda,softener",2,10.693863205763058
+369,"oil,dental care,newspapers",3,15.424266329362133
+370,"whipped/sour cream,beverages,fruit/vegetable juice,chocolate",4,36.615361671233515
+371,"whole milk,frozen vegetables,specialty chocolate",3,22.81979167959544
+372,"coffee,shopping bags",2,15.658104754318888
+373,"rolls/buns,waffles",2,12.004048443908133
+374,"citrus fruit,yogurt,brown bread,pasta",4,33.15201911820455
+375,"cream cheese,rolls/buns",2,10.319168384260404
+376,"chicken,whipped/sour cream,coffee,shopping bags",4,28.91398271034253
+377,"grapes,root vegetables",2,4.058355017497355
+378,"root vegetables,other vegetables,yogurt",3,11.971790755892512
+379,"oil,dish cleaner,newspapers",3,14.86524772273489
+380,"onions,vinegar,pet care,specialty bar",4,10.513356608504235
+381,"dessert,dishes",2,16.364019404076462
+382,"chewing gum,napkins,dishes",3,26.98721341273827
+383,"beverages,pastry,long life bakery product,chocolate marshmallow",4,32.718386218578146
+384,"cat food,soda",2,21.470072543127106
+385,"whole milk,beverages,pastry,soda",4,35.68221751360258
+386,"soda,fruit/vegetable juice",2,11.496477022085699
+387,"beverages,bottled water,misc. beverages",3,20.648189591192267
+388,"whole milk,yogurt,chocolate",3,30.73077442850502
+389,"whole milk,brown bread",2,15.820652858938816
+390,"citrus fruit,frozen potato products",2,18.940839452875476
+391,"ice cream,salty snack,waffles",3,19.59931841749266
+392,"root vegetables,fruit/vegetable juice,long life bakery product,pot plants",4,20.21763131453619
+393,"other vegetables,chocolate",2,17.28364684306704
+394,"whole milk,white bread,pastry",3,28.91334813498934
+395,"zwieback,oil,mustard,chocolate",4,38.446783884861176
+396,"butter,yogurt,dog food",3,23.89601164573087
+397,"chicken,tropical fruit,candy,shopping bags",4,39.89014813221979
+398,"other vegetables,cream cheese,coffee,dishes",4,23.891222704664628
+399,"chicken,whole milk",2,14.430683297336184
+400,"yogurt,chocolate",2,21.940717669051928
+401,"frozen meals,pet care,soda",3,25.66191679169741
+402,"canned fruit,meat spreads,bottled water",3,21.03167342027214
+403,"butter,waffles,chocolate",3,28.00823850225185
+404,"meat,yogurt",2,19.232120347368827
+405,"root vegetables,butter,frozen vegetables,salty snack",4,19.955256433445967
+406,"yogurt,sugar,instant coffee",3,15.246470781018555
+407,"yogurt,rolls/buns,pastry,soda",4,26.807327289714298
+408,"dessert,misc. beverages",2,10.182795052118841
+409,"curd,jam,shopping bags",3,27.061868526707915
+410,"herbs,pot plants",2,23.143439679945196
+411,"whole milk,sugar,pudding powder",3,26.31671227477994
+412,"cream cheese,dishes",2,18.44549958034424
+413,"frozen fruits,detergent",2,20.93720091297826
+414,"whole milk,soda",2,17.759477308687757
+415,"whole milk,yogurt",2,16.15565307477892
+416,"chicken,whole milk",2,14.430683297336184
+417,"whole milk,shopping bags",2,21.710963878792537
+418,"root vegetables,coffee,detergent",3,14.847169509101583
+419,"oil,female sanitary products,cling film/bags",3,27.03244151291753
+420,"uht-milk,coffee",2,14.586858430108594
+421,"butter milk,shopping bags",2,26.85899945764417
+422,"brown bread,specialty chocolate,shopping bags",3,25.234490797650555
+423,"beverages,soda,chocolate",3,35.442474329476596
+424,"rolls/buns,bottled water",2,6.805150320550221
+425,"hard cheese,rolls/buns,soda,shopping bags",4,33.66872530440434
+426,"tropical fruit,frozen vegetables",2,23.145855933317918
+427,"whipped/sour cream,salty snack",2,11.049520207671392
+428,"citrus fruit,whole milk,butter milk,whipped/sour cream",4,42.129961223467916
+429,"soda,fruit/vegetable juice",2,11.496477022085699
+430,"tropical fruit,whole milk",2,23.18916535145405
+431,"dessert,fruit/vegetable juice,newspapers",3,7.146567094529829
+432,"whole milk,rolls/buns",2,13.237559406207899
+433,"rolls/buns,soda",2,13.416923195989472
+434,"fish,dessert,yogurt,cling film/bags",4,24.541672926543175
+435,"other vegetables,oil,margarine,dishes",4,32.57736863436468
+436,"tropical fruit,other vegetables,waffles,napkins",4,27.58528721715693
+437,"citrus fruit,coffee",2,14.523758342548991
+438,"beef,other vegetables,margarine,candles",4,39.882882444040916
+439,"rolls/buns,soda,waffles,shopping bags",4,33.89437611248224
+440,"whole milk,beverages,bottled water,newspapers",4,23.874961920205315
+441,"root vegetables,brown bread,pot plants",3,23.375781186679426
+442,"onions,shopping bags",2,15.759347915326671
+443,"napkins,dishes",2,15.494941181500348
+444,"other vegetables,rolls/buns",2,7.156028136095748
+445,"frankfurter,whole milk",2,12.188725695342162
+446,"whipped/sour cream,flower (seeds)",2,18.011436225777697
+447,"frozen vegetables,brown bread",2,15.777343440802683
+448,"onions,yogurt,oil",3,17.401256949958174
+449,"frankfurter,brown bread,sugar",3,13.402863079159642
+450,"rolls/buns,canned fish,soda",3,17.211884661868737
+451,"condensed milk,coffee,napkins",3,16.062514795656742
+452,"whole milk,frozen vegetables,fruit/vegetable juice,long life bakery product",4,21.40925032811254
+453,"pip fruit,yogurt,sliced cheese",3,20.06873300669788
+454,"pip fruit,other vegetables",2,4.479449319424406
+455,"other vegetables,whipped/sour cream,condensed milk,salt",4,27.836742932084448
+456,"pastry,long life bakery product,shopping bags",3,20.291104652229897
+457,"citrus fruit,tropical fruit,coffee",3,28.922866934549948
+458,"tropical fruit,bottled water,chewing gum",3,28.249028497034292
+459,"herbs,oil,dog food",3,26.546987361654967
+460,"yogurt,chocolate",2,21.940717669051928
+461,"frankfurter,frozen meals,semi-finished bread,shopping bags",4,31.20335235766591
+462,"yogurt,shopping bags",2,20.286503434665274
+463,"frozen vegetables,coffee",2,11.483944976296403
+464,"pastry,soda",2,14.994228327633662
+465,"curd,bottled water,photo/film",3,19.305304537518513
+466,"yogurt,bottled water,male cosmetics",3,14.480353476738157
+467,"coffee,chocolate",2,17.31231898870554
+468,"sauces,softener",2,6.660813706712853
+469,"napkins,dishes",2,15.494941181500348
+470,"other vegetables,rolls/buns,canned fish",3,10.950989601975014
+471,"chicken,citrus fruit,onions,bottled water",4,22.62327571523528
+472,"whole milk,rolls/buns",2,13.237559406207899
+473,"rolls/buns,margarine",2,14.545292110294785
+474,"tropical fruit,soft cheese,rolls/buns,chocolate",4,43.34450831502675
+475,"tropical fruit,pip fruit,brown bread",3,23.200628521570145
+476,"meat,rolls/buns,specialty chocolate",3,21.59701425762319
+477,"whole milk,coffee,female sanitary products,shopping bags",4,37.01592863400239
+478,"misc. beverages,chocolate",2,20.967730844607118
+479,"pastry,long life bakery product",2,7.370197532890453
+480,"soda,fruit/vegetable juice",2,11.496477022085699
+481,"domestic eggs,long life bakery product,seasonal products",3,15.273389804188545
+482,"yogurt,uht-milk,domestic eggs,rolls/buns",4,28.69207605724938
+483,"citrus fruit,other vegetables,whole milk",3,23.285142956363583
+484,"whole milk,rolls/buns",2,13.237559406207899
+485,"tropical fruit,newspapers",2,15.228433652441934
+486,"rolls/buns,margarine,newspapers",3,15.374617170735762
+487,"whole milk,dessert",2,12.580242320690912
+488,"yogurt,rolls/buns",2,11.813098962080637
+489,"frankfurter,pip fruit,other vegetables,whole milk",4,16.668175014766568
+490,"whole milk,rolls/buns",2,13.237559406207899
+491,"whole milk,frozen vegetables",2,17.536804100770052
+492,"whole milk,yogurt,white bread,newspapers",4,31.08346173235715
+493,"domestic eggs,rolls/buns,soda",3,18.44623949602907
+494,"soda,waffles",2,16.525966346387992
+495,"butter milk,coffee",2,16.67528997328417
+496,"cream cheese,soda",2,14.841086286740264
+497,"frankfurter,pip fruit,rolls/buns,bottled water",4,11.974743086522757
+498,"nuts/prunes,rolls/buns,soda",3,24.391133779638004
+499,"rolls/buns,soda",2,13.416923195989472
+500,"chocolate,candy",2,21.5046272367224
+501,"beef,herbs,whole milk",3,32.13250440216329
+502,"frankfurter,rolls/buns,fruit/vegetable juice",3,10.37322805549491
+503,"pip fruit,whole milk,whipped/sour cream,baking powder",4,28.788068429037885
+504,"butter,cleaner",2,9.198832615225959
+505,"fruit/vegetable juice,nut snack",2,4.332750454097838
+506,"meat,specialty bar",2,12.969929553040437
+507,"pip fruit,butter,curd,chocolate",4,29.531175798681204
+508,"other vegetables,domestic eggs",2,7.737841789380537
+509,"whole milk,white bread,salty snack",3,26.322809146121184
+510,"dessert,frozen dessert",2,15.700589035018826
+511,"soda,long life bakery product",2,10.314810303726123
+512,"beef,other vegetables,domestic eggs,pastry",4,28.409173666512494
+513,"spread cheese,pastry",2,15.04565407497582
+514,"citrus fruit,tropical fruit,other vegetables,pot plants",4,43.34171092487941
+515,"rolls/buns,soda",2,13.416923195989472
+516,"pip fruit,roll products,pot plants",3,23.23418174713636
+517,"pip fruit,whole milk",2,10.560980589536557
+518,"other vegetables,rolls/buns",2,7.156028136095748
+519,"citrus fruit,other vegetables,butter,candy",4,27.30116343127922
+520,"citrus fruit,uht-milk,napkins",3,26.557328841360405
+521,"rolls/buns,newspapers",2,5.276827707195784
+522,"citrus fruit,tropical fruit,pip fruit,other vegetables",4,30.66511861899491
+523,"frozen fish,hygiene articles,shopping bags",3,31.58814584946485
+524,"tropical fruit,pastry,soda",3,29.39333691963462
+525,"beverages,pastry",2,17.922740204914824
+526,"whole milk,rolls/buns,newspapers",3,14.066884466648876
+527,"pastry,soda",2,14.994228327633662
+528,"whole milk,bottled water,napkins",3,14.068811771910214
+529,"pip fruit,whole milk",2,10.560980589536557
+530,"yogurt,specialty chocolate,seasonal products",3,21.54726764380871
+531,"whipped/sour cream,baking powder",2,18.22708783950133
+532,"other vegetables,cream cheese,rolls/buns",3,13.027693873601347
+533,"beef,frozen fish,rolls/buns,margarine",4,39.33215362961221
+534,"soda,house keeping products",2,18.672836189243235
+535,"butter,rolls/buns,newspapers",3,11.153399058568212
+536,"frozen vegetables,sugar,coffee",3,14.457543020081252
+537,"root vegetables,whole milk,domestic eggs",3,15.717042010718428
+538,"tropical fruit,napkins",2,17.320215930662663
+539,"whipped/sour cream,rice,popcorn",3,20.72124474169346
+540,"pip fruit,coffee",2,4.508121465062908
+541,"pip fruit,yogurt,ice cream,soda",4,26.714444525452457
+542,"tropical fruit,whole milk,butter,brown bread",4,36.096332802312205
+543,"pip fruit,napkins",2,4.692031168745171
+544,"rolls/buns,fruit/vegetable juice",2,6.974559119605839
+545,"tropical fruit,rolls/buns",2,18.846611238755763
+546,"whole milk,pastry",2,14.814864537852088
+547,"rolls/buns,meat spreads",2,14.580048981501925
+548,"butter,whipped/sour cream,domestic eggs,rolls/buns",4,22.96864171630738
+549,"rolls/buns,bottled water,soda",3,15.774570869784888
+550,"whole milk,brown bread,newspapers",3,16.649977919379793
+551,"dessert,zwieback",2,8.161332676070277
+552,"frankfurter,domestic eggs",2,8.427985235928666
+553,"whipped/sour cream,soda",2,16.58467196737522
+554,"whole milk,margarine,pot plants",3,33.335362358961035
+555,"curd,yogurt,frozen vegetables",3,23.420902920142005
+556,"citrus fruit,pip fruit,other vegetables,canned vegetables",4,17.691360240504498
+557,"beverages,rolls/buns,long life bakery product,shopping bags",4,30.61173194710154
+558,"root vegetables,butter,pot plants",3,22.22175643856613
+559,"other vegetables,soda",2,11.677946038575609
+560,"chicken,other vegetables,whole milk",3,17.139208786677123
+561,"chicken,napkins",2,8.561733876544798
+562,"whipped/sour cream,female sanitary products",2,20.18301853837097
+563,"whole milk,whipped/sour cream",2,16.405308177593646
+564,"root vegetables,whole milk,yogurt",3,18.05332202600466
+565,"rolls/buns,brown bread,bottled water",3,13.835746420035946
+566,"sweet spreads,coffee,chocolate,seasonal products",4,40.12524445482659
+567,"beef,pot plants",2,29.09404023470092
+568,"frozen vegetables,frozen meals",2,20.567318291135493
+569,"bottled water,specialty chocolate",2,7.640635252620802
+570,"ice cream,sugar,napkins,dishes",4,27.077043056093693
+571,"butter,margarine",2,15.974360814912407
+572,"whole milk,bottled water,fruit/vegetable juice",3,13.67476090609954
+573,"hard cheese,newspapers",2,8.160220049516399
+574,"soups,soda,shopping bags",3,28.41953500004795
+575,"pastry,soda",2,14.994228327633662
+576,"onions,rolls/buns",2,7.285943442742032
+577,"ice cream,soda,fruit/vegetable juice",3,20.104980852894194
+578,"misc. beverages,cake bar",2,16.22865373205066
+579,"cat food,chocolate,specialty chocolate",3,32.35876092644392
+580,"berries,other vegetables,yogurt",3,21.61064748352689
+581,"whole milk,pot plants",2,23.237572895421053
+582,"root vegetables,domestic eggs",2,6.926985251265336
+583,"ice cream,bottled water",2,10.96615150460391
+584,"ice cream,soda,specialty chocolate",3,22.86091195886855
+585,"curd,yogurt,waffles",3,22.23070137597837
+586,"other vegetables,domestic eggs,soda",3,16.7072623386152
+587,"other vegetables,pastry",2,8.733333267739937
+588,"root vegetables,canned vegetables,soda,shopping bags",4,25.213346833310393
+589,"pastry,salty snack",2,9.459076567929836
+590,"other vegetables,brown bread,soda",3,18.708542138061333
+591,"other vegetables,frozen vegetables,pastry,specialty bar",4,18.58348613005434
+592,"chocolate,pot plants",2,29.022637489694056
+593,"other vegetables,yogurt,fruit/vegetable juice,shopping bags",4,25.52208539685725
+594,"pip fruit,vinegar,bottled water,shopping bags",4,18.749063622093683
+595,"mustard,soda,fruit/vegetable juice",3,23.7997725997432
+596,"whole milk,margarine,bottled water",3,21.245493896788485
+597,"citrus fruit,tropical fruit,other vegetables",3,28.894194788911445
+598,"beef,grapes,fruit/vegetable juice",3,19.33426663785561
+599,"pip fruit,sugar",2,4.7445218738683135
+600,"pip fruit,domestic eggs",2,6.8002401301230595
+601,"butter milk,specialty chocolate",2,19.221079917130112
+602,"other vegetables,dessert,waffles,light bulbs",4,26.929601410120494
+603,"domestic eggs,cat food,bottled water",3,19.88761596772745
+604,"root vegetables,yogurt,fruit/vegetable juice",3,11.790321739402604
+605,"other vegetables,yogurt",2,10.074121804666772
+606,"other vegetables,whole milk,yogurt,spices",4,20.863521596096863
+607,"pip fruit,margarine",2,11.868713293623443
+608,"berries,chewing gum,seasonal products,newspapers",4,32.75680672019651
+609,"whole milk,specialty bar",2,9.893462280450533
+610,"whole milk,specialty fat,soda",3,20.35507804724544
+611,"cat food,chocolate",2,27.075773347618536
+612,"brown bread,margarine,long life bakery product,flower (seeds)",4,28.869960125154304
+613,"fish,brown bread,pet care,napkins",4,20.94206522672917
+614,"whole milk,brown bread",2,15.820652858938816
+615,"soda,chocolate,chocolate marshmallow",3,36.994798162132625
+616,"whole milk,soda",2,17.759477308687757
+617,"citrus fruit,pip fruit,whole milk,bottled water",4,24.70518897090152
+618,"rolls/buns,soda",2,13.416923195989472
+619,"butter milk,hard cheese",2,21.268987327380145
+620,"pastry,soda",2,14.994228327633662
+621,"spread cheese,fruit/vegetable juice",2,11.547902769427857
+622,"frankfurter,onions,candy,detergent",4,23.378918537769
+623,"frankfurter,pip fruit,newspapers",3,5.998917826413512
+624,"rolls/buns,white bread,dish cleaner,shopping bags",4,38.3055961868803
+625,"other vegetables,whole milk,soda,chocolate",4,35.043124151754796
+626,"citrus fruit,pip fruit",2,13.557484537653012
+627,"flour,bottled water,chocolate,specialty chocolate",4,26.89651411333544
+628,"frankfurter,rolls/buns",2,7.846171582643876
+629,"frozen vegetables,rolls/buns,pastry",3,19.219057766470762
+630,"tropical fruit,other vegetables,whole milk,frozen meals",4,37.718261790613525
+631,"frankfurter,beef,other vegetables,rolls/buns",4,25.20122117071778
+632,"sweet spreads,cat food",2,26.414893710355997
+633,"pip fruit,soda",2,10.740344379318131
+634,"liver loaf,whole milk,yogurt",3,20.047775619826364
+635,"curd,tidbits,soda",3,25.346254439214423
+636,"bottled water,fruit/vegetable juice",2,4.884704146646448
+637,"onions,spread cheese",2,11.859287092564049
+638,"rolls/buns,misc. beverages",2,10.840112137635828
+639,"tropical fruit,other vegetables",2,17.1076340813419
+640,"frankfurter,frozen potato products",2,10.552947681195
+641,"pip fruit,soda,cake bar,specialty chocolate",4,25.859376199313154
+642,"tropical fruit,cream cheese,chocolate",3,34.845895683232655
+643,"whole milk,yogurt",2,16.15565307477892
+644,"pip fruit,pastry",2,7.795731608482461
+645,"domestic eggs,rolls/buns",2,9.476818946794403
+646,"citrus fruit,male cosmetics",2,16.543670195186458
+647,"rolls/buns,tea",2,9.977114812509944
+648,"rolls/buns,newspapers",2,5.276827707195784
+649,"tropical fruit,zwieback,bottled water",3,21.12790338062883
+650,"whole milk,beverages,frozen meals,frozen dessert",4,44.418963609568465
+651,"margarine,napkins",2,13.018896802201684
+652,"dessert,rolls/buns,bottled water,specialty bar",4,11.698741402785481
+653,"beef,whipped/sour cream,napkins",3,25.18288285553522
+654,"brown bread,fruit/vegetable juice,newspapers,shopping bags",4,23.30788475211718
+655,"sweet spreads,soda,waffles",3,30.44020806285155
+656,"pastry,instant coffee",2,10.932084200306873
+657,"whole milk,hard cheese,coffee",3,18.858149383507957
+658,"other vegetables,whipped/sour cream",2,10.323776907481495
+659,"pip fruit,onions,whole milk",3,13.399421385523782
+660,"pastry,soda",2,14.994228327633662
+661,"liver loaf,rolls/buns,soda",3,17.30904574103691
+662,"frankfurter,chicken,brown bread,oil",4,23.267111411903002
+663,"butter,yogurt,whipped/sour cream",3,20.85741908483881
+664,"yogurt,rolls/buns",2,11.813098962080637
+665,"soda,chocolate,specialty chocolate",3,28.82752948178615
+666,"oil,fruit/vegetable juice",2,9.724276311496151
+667,"onions,yogurt,frozen vegetables",3,18.950784452630018
+668,"citrus fruit,pip fruit",2,13.557484537653012
+669,"yogurt,pastry",2,13.390404093724825
+670,"dish cleaner,napkins",2,9.759810162310503
+671,"yogurt,organic products,shopping bags",3,28.051652673664044
+672,"sauces,specialty chocolate",2,10.219358629009848
+673,"brown bread,pastry,pasta",3,20.024669873708163
+674,"cream cheese,ice cream,white bread,specialty chocolate",4,33.861640744276734
+675,"ice cream,chocolate marshmallow",2,22.05876008998036
+676,"hard cheese,soda",2,16.300315538310088
+677,"detergent,decalcifier,hygiene articles",3,21.12306605980168
+678,"soda,specialty bar",2,10.072826070232107
+679,"pip fruit,other vegetables,whipped/sour cream,oil",4,19.291920576210078
+680,"whole milk,butter milk,yogurt",3,30.09374541308365
+681,"beverages,rolls/buns",2,16.345435073270636
+682,"ice cream,frozen dessert,salty snack",3,23.95317609412034
+683,"butter,sliced cheese,misc. beverages,fruit/vegetable juice",4,25.728450176393068
+684,"beverages,waffles",2,19.454478223669156
+685,"yogurt,bottled water",2,9.723243989121245
+686,"uht-milk,hygiene articles,cling film/bags,newspapers",4,28.473341719153062
+687,"whole milk,yogurt,rolls/buns,bottled water",4,22.960803395329144
+688,"yogurt,rolls/buns,pastry,soda",4,26.807327289714298
+689,"other vegetables,yogurt,whipped/sour cream,newspapers",4,18.518698283248302
+690,"chocolate,specialty bar",2,15.678526874723538
+691,"citrus fruit,tropical fruit,fruit/vegetable juice",3,28.712725772421535
+692,"specialty fat,sugar,cat food",3,18.06985077623497
+693,"spread cheese,rolls/buns,brown bread,soda",4,29.46836559205202
+694,"whole milk,pastry",2,14.814864537852088
+695,"whole milk,pastry",2,14.814864537852088
+696,"beef,other vegetables,whole milk,rolls/buns",4,30.5926089942818
+697,"pip fruit,whole milk,yogurt",3,17.926576904862387
+698,"other vegetables,rolls/buns",2,7.156028136095748
+699,"rolls/buns,specialty chocolate",2,9.730490225580194
+700,"whole milk,cat food,bottled water,napkins",4,26.569463765802652
+701,"beverages,processed cheese",2,22.543685866771696
+702,"beef,root vegetables,other vegetables,whipped/sour cream",4,26.867969957440195
+703,"domestic eggs,dish cleaner,hygiene articles",3,20.39492043322933
+704,"processed cheese,rolls/buns,soda",3,24.062676636245342
+705,"citrus fruit,curd",2,19.095119971068762
+706,"pastry,candles",2,18.454851170826032
+707,"berries,other vegetables,whole milk,whipped/sour cream",4,30.650359345794705
+708,"whole milk,yogurt,whipped/sour cream,sugar",4,26.744502536704324
+709,"whole milk,butter milk,domestic eggs",3,27.757465397797414
+710,"rolls/buns,bottled water",2,6.805150320550221
+711,"frankfurter,rolls/buns,napkins",3,10.767278921305584
+712,"rolls/buns,pastry,soda",3,19.44173097438847
+713,"uht-milk,margarine,bottled water,soda",4,33.27451848169921
+714,"pip fruit,yogurt",2,9.136520145409294
+715,"whole milk,coffee",2,11.527254394432536
+716,"pasta,fruit/vegetable juice",2,9.496322468674478
+717,"tropical fruit,butter,brown bread",3,27.30627604285911
+718,"whole milk,bottled water",2,11.147704433248506
+719,"rolls/buns,soda,specialty bar",3,14.520328716986914
+720,"rolls/buns,fruit/vegetable juice,long life bakery product,newspapers",4,9.149273934538273
+721,"pastry,fruit/vegetable juice",2,8.551864251250029
+722,"rolls/buns,soda",2,13.416923195989472
+723,"domestic eggs,soda",2,13.998736849274263
+724,"onions,whole milk,butter,frozen fish",4,27.64540632739721
+725,"tropical fruit,rolls/buns,bottled water",3,21.20425891255118
+726,"root vegetables,other vegetables",2,4.606194440566682
+727,"beef,root vegetables",2,16.5441930499587
+728,"citrus fruit,shopping bags",2,24.707467826908992
+729,"snack products,chocolate",2,21.3404704304651
+730,"frozen meals,frozen fish,chocolate",3,36.536029724129094
+731,"spread cheese,rolls/buns",2,13.46834894333163
+732,"herbs,whole milk",2,17.48598030343033
+733,"tropical fruit,other vegetables",2,17.1076340813419
+734,"domestic eggs,margarine,bottled water",3,17.48475343737499
+735,"frankfurter,domestic eggs,rolls/buns",3,12.875487882683473
+736,"whole milk,spread cheese",2,17.810903056029915
+737,"soda,hygiene articles,napkins",3,20.41742919743731
+738,"bottled water,chocolate",2,16.932769027521513
+739,"whole milk,frozen vegetables",2,17.536804100770052
+740,"herbs,misc. beverages,shopping bags",3,28.009440154197705
+741,"meat,curd,white bread",3,33.27356689267946
+742,"yogurt,waffles",2,14.922142112479156
+743,"whipped/sour cream,candy",2,14.544757301136855
+744,"butter,oil,cling film/bags",3,20.341245744059542
+745,"yogurt,frozen fish,ice cream",3,26.11443756671879
+746,"yogurt,whipped/sour cream,hard cheese,ketchup",4,25.923220478424977
+747,"other vegetables,whole milk,coffee",3,14.235779883773478
+748,"yogurt,rolls/buns,misc. beverages",3,18.20570845296166
+749,"condensed milk,coffee",2,13.141407456995035
+750,"root vegetables,pastry",2,7.922476729624735
+751,"other vegetables,oil",2,9.90574532798606
+752,"citrus fruit,rolls/buns,snack products",3,22.99941243106336
+753,"frankfurter,photo/film",2,13.037766536112953
+754,"root vegetables,yogurt,beverages,flour",4,25.84195520005594
+755,"meat,citrus fruit,whole milk,spread cheese",4,41.46398779564246
+756,"rolls/buns,zwieback,chocolate marshmallow,dishes",4,34.84273986359777
+757,"cat food,coffee",2,15.237849628871883
+758,"hard cheese,honey,candy",3,25.852884304604093
+759,"rolls/buns,soda,newspapers",3,14.24624825643045
+760,"curd,napkins",2,10.229666602160922
+761,"meat,other vegetables",2,14.575049521383939
+762,"whole milk,rolls/buns,pastry",3,19.262367184606894
+763,"whole milk,domestic eggs,brown bread,photo/film",4,30.489066759202295
+764,"whole milk,newspapers",2,9.61938181989407
+765,"root vegetables,other vegetables,frozen vegetables",3,13.352941781883642
+766,"whole milk,whipped/sour cream",2,16.405308177593646
+767,"meat,root vegetables,whole milk,newspapers",4,23.383574803162805
+768,"finished products,misc. beverages",2,18.56169267458465
+769,"whole milk,frozen meals,rolls/buns,margarine",4,35.155919819566414
+770,"curd,yogurt",2,14.674155578825046
+771,"coffee,fruit/vegetable juice",2,5.264254107830476
+772,"whole milk,curd,brown bread",3,23.12921212243803
+773,"yogurt,rolls/buns,meat spreads,soda",4,30.915065846062422
+774,"beef,citrus fruit,whole milk",3,35.2231415657556
+775,"yogurt,uht-milk,rolls/buns,candles",4,36.09280314963682
+776,"finished products,soda,specialty chocolate",3,26.42149131176368
+777,"tropical fruit,whole milk",2,23.18916535145405
+778,"chicken,sugar,photo/film",3,18.25332218189182
+779,"hard cheese,white bread,brown bread",3,28.4599746856984
+780,"tropical fruit,rolls/buns,pastry",3,24.871419017154757
+781,"other vegetables,pastry,candy,napkins",4,18.583946489397945
+782,"domestic eggs,rolls/buns",2,9.476818946794403
+783,"pastry,soda",2,14.994228327633662
+784,"dessert,rolls/buns,sugar,bottled water",4,13.568933925572889
+785,"pip fruit,whole milk,domestic eggs",3,15.590296889576152
+786,"root vegetables,whole milk,rolls/buns,specialty chocolate",4,20.418215936259024
+787,"root vegetables,yogurt,pastry",3,15.288073044950567
+788,"other vegetables,rolls/buns,soda",3,16.125448685330415
+789,"butter milk,canned fish",2,17.73305380418399
+790,"butter milk,soft cheese,rolls/buns",3,28.30837070760442
+791,"onions,other vegetables,specialty cheese",3,13.209833164373691
+792,"whole milk,curd,dessert,shopping bags",4,32.80970870352957
+793,"rolls/buns,soda,waffles,chewing gum",4,32.46574122438072
+794,"rolls/buns,brown bread,fruit/vegetable juice,newspapers",4,14.83448027953254
+795,"mayonnaise,rolls/buns",2,13.024468855703342
+796,"citrus fruit,other vegetables,whole milk,flour",4,27.96590046335212
+797,"soda,chewing gum,newspapers,photo/film",4,30.930115441137445
+798,"whole milk,rolls/buns",2,13.237559406207899
+799,"tropical fruit,candy",2,21.32861447499726
+800,"frankfurter,white bread,margarine,shopping bags",4,40.515849115905745
+801,"whole milk,fruit/vegetable juice",2,11.317113232304125
+802,"pastry,newspapers",2,6.854132838839973
+803,"condensed milk,coffee",2,13.141407456995035
+804,"pastry,soda",2,14.994228327633662
+805,"soda,fruit/vegetable juice,specialty bar",3,12.59988254308314
+806,"yogurt,cream cheese,rolls/buns,chocolate",4,32.25988605331233
+807,"whipped/sour cream,domestic eggs,margarine",3,22.742357181720127
+808,"root vegetables,other vegetables,photo/film",3,14.245292040790565
+809,"pastry,soda",2,14.994228327633662
+810,"yogurt,rolls/buns",2,11.813098962080637
+811,"frankfurter,rolls/buns,brown bread,shopping bags",4,27.797674801469046
+812,"specialty cheese,hygiene articles,newspapers,shopping bags",4,29.940000368366885
+813,"rolls/buns,pastry",2,10.472310425153802
+814,"dental care,male cosmetics",2,12.154830917892951
+815,"rolls/buns,soda",2,13.416923195989472
+816,"whole milk,pastry,soda",3,23.784285087086754
+817,"beef,tropical fruit,root vegetables,whole milk",4,39.73335840141275
+818,"dessert,beverages,ice cream,soda",4,33.266042367796814
+819,"whole milk,frozen vegetables",2,17.536804100770052
+820,"whole milk,curd,margarine",3,26.196405486492285
+821,"rolls/buns,canned fruit",2,12.98898205848441
+822,"beverages,waffles",2,19.454478223669156
+823,"whole milk,brown bread,pastry",3,21.845460637337812
+824,"whole milk,frozen dessert,margarine,snack products",4,37.56359877351308
+825,"frankfurter,rolls/buns",2,7.846171582643876
+826,"bottled water,long life bakery product",2,3.7030374282868723
+827,"other vegetables,white bread,newspapers",3,17.63633414691917
+828,"rolls/buns,soda",2,13.416923195989472
+829,"berries,cookware,flower (seeds)",3,36.46160160679331
+830,"photo/film,shopping bags",2,22.560004719563327
+831,"other vegetables,specialty cheese",2,10.371392368386466
+832,"ice cream,chewing gum",2,20.100776062046418
+833,"frozen meals,pastry,pasta",3,24.814644724040974
+834,"frankfurter,root vegetables",2,5.29633788711481
+835,"frozen meals,soda,shopping bags",3,33.71089861839265
+836,"pastry,soda",2,14.994228327633662
+837,"cat food,waffles",2,20.057197791045766
+838,"bottled water,soda",2,11.327068223030082
+839,"soda,chocolate",2,23.544541902960763
+840,"pastry,soda",2,14.994228327633662
+841,"brown bread,bottled water",2,9.38824377328114
+842,"long life bakery product,pot plants",2,15.792905890459418
+843,"butter,napkins",2,8.797678690034136
+844,"whole milk,seasonal products,shopping bags",3,30.609647628450027
+845,"rolls/buns,brown bread",2,11.47809874624053
+846,"dessert,soft cheese,rolls/buns",3,18.160463930537514
+847,"whole milk,canned fish,newspapers",3,13.414343285773334
+848,"whole milk,newspapers",2,9.61938181989407
+849,"citrus fruit,whole milk",2,20.57661746702264
+850,"chocolate,napkins",2,17.496228692387803
+851,"rolls/buns,white bread,waffles",3,26.102532041045382
+852,"root vegetables,whole milk,rolls/buns",3,15.135228357433638
+853,"tropical fruit,domestic eggs,newspapers",3,20.25774995248153
+854,"whipped/sour cream,candy",2,14.544757301136855
+855,"other vegetables,soda,specialty bar",3,12.781351559573048
+856,"fish,rolls/buns,pot plants",3,25.013455278660295
+857,"pip fruit,yogurt",2,9.136520145409294
+858,"yogurt,frozen vegetables,decalcifier",3,18.496205484007127
+859,"whole milk,frozen meals,pasta,candy",4,34.50939958809138
+860,"whole milk,cereals",2,18.44919054672303
+861,"bottled water,soda",2,11.327068223030082
+862,"whole milk,napkins",2,11.7111640981148
+863,"whole milk,specialty bar",2,9.893462280450533
+864,"dessert,frozen potato products,specialty chocolate",3,16.227451885369135
+865,"onions,other vegetables,spread cheese,misc. beverages",4,20.960422072786013
+866,"frankfurter,curd,semi-finished bread",3,13.770433552007145
+867,"other vegetables,whole milk",2,11.498582248794033
+868,"root vegetables,whole milk,hard cheese,candy",4,24.948126582750554
+869,"finished products,pip fruit,frozen potato products,soda",4,30.06370630832769
+870,"soda,shopping bags",2,21.89032766857411
+871,"fruit/vegetable juice,salty snack",2,5.961325262381873
+872,"yogurt,misc. beverages",2,13.758205806206853
+873,"cream cheese,rolls/buns,candy,shopping bags",4,30.16958138659615
+874,"whole milk,beverages",2,20.687989185968924
+875,"roll products,misc. beverages",2,13.408351271965959
+876,"butter milk,pastry",2,19.96290011670372
+877,"misc. beverages,salty snack",2,9.826878280411862
+878,"butter,ice cream,margarine,soda",4,33.55228519495557
+879,"yogurt,frozen vegetables",2,16.11234365664279
+880,"root vegetables,whole milk,rolls/buns",3,15.135228357433638
+881,"uht-milk,bottled water,soda",3,23.176729018159232
+882,"whole milk,dessert,butter milk",3,26.518334658995638
+883,"salty snack,female sanitary products",2,16.002035909761254
+884,"soda,skin care",2,20.467953731845213
+885,"citrus fruit,tropical fruit,ice cream",3,34.794173130379
+886,"citrus fruit,tropical fruit,brown bread,napkins",4,36.13737273771793
+887,"bottled water,soda,waffles",3,18.88361402018341
+888,"curd,cake bar",2,17.14460350466885
+889,"specialty cheese,chewing gum",2,19.155139110283447
+890,"other vegetables,white bread",2,16.807009086478192
+891,"whole milk,cream cheese,salty snack,candy",4,25.02549716948583
+892,"root vegetables,whole milk,roll products",3,17.703467491763767
+893,"pasta,soda,snack products,cake bar",4,32.54007986296675
+894,"whole milk,frozen vegetables,coffee",3,20.274001735749493
+895,"beef,other vegetables",2,17.355049588073904
+896,"frankfurter,rolls/buns,margarine,soda",4,26.91338159541852
+897,"beef,other vegetables,margarine,soda",4,36.42225960084855
+898,"whole milk,frozen meals,specialty chocolate",3,25.893615288097013
+899,"other vegetables,pot plants",2,17.1560416253089
+900,"onions,roll products",2,9.854182577072162
+901,"zwieback,long life bakery product,dental care",3,13.114258299599953
+902,"frankfurter,curd cheese",2,6.646003642611213
+903,"onions,yogurt,ice cream",3,18.81254094212155
+904,"curd,cat food,soda",3,28.778631806626322
+905,"other vegetables,processed cheese,tea",3,18.88389109535195
+906,"whipped/sour cream,domestic eggs,bottled water,soda",4,23.97163594121023
+907,"root vegetables,semi-finished bread,specialty bar",3,6.064279824842041
+908,"pip fruit,soft cheese,tidbits",3,20.761974179108897
+909,"soda,specialty bar",2,10.072826070232107
+910,"cereals,specialty chocolate,pot plants",3,29.389637502063287
+911,"frankfurter,soda,shopping bags",3,25.288996604463183
+912,"uht-milk,cream cheese,spread cheese,rolls/buns",4,31.18967547596638
+913,"misc. beverages,specialty chocolate",2,11.67559706970641
+914,"bottled water,soda",2,11.327068223030082
+915,"meat spreads,specialty bar",2,11.23595185574456
+916,"brown bread,bottled water,specialty bar",3,10.491649294278579
+917,"citrus fruit,herbs,other vegetables,curd",4,30.49956900438694
+918,"beef,chocolate",2,29.221645452459057
+919,"mayonnaise,white bread,soda",3,31.644870355320453
+920,"fruit/vegetable juice,chewing gum",2,14.019328704088954
+921,"dog food,cling film/bags",2,17.921298533074605
+922,"meat,other vegetables,white bread,newspapers",4,29.502858178962168
+923,"whole milk,rolls/buns,specialty chocolate,candy",4,25.450052868029587
+924,"tropical fruit,whole milk,margarine,sugar",4,36.26055285877888
+925,"other vegetables,whole milk,waffles",3,19.05512804594736
+926,"frozen vegetables,domestic eggs,pastry",3,19.800871419755552
+927,"meat,newspapers",2,12.695849092483973
+928,"beef,whole milk,margarine,salty snack",4,36.96863911125687
+929,"other vegetables,frozen fish,vinegar",3,14.548447908800767
+930,"whole milk,domestic eggs,cling film/bags",3,21.086827613534684
+931,"root vegetables,uht-milk,soda",3,22.716750295589556
+932,"frankfurter,rolls/buns",2,7.846171582643876
+933,"whole milk,pastry",2,14.814864537852088
+934,"frozen chicken,salty snack",2,4.041021700920419
+935,"coffee,soda",2,11.70661818421411
+936,"citrus fruit,soft cheese,rolls/buns,pastry",4,32.18164685526824
+937,"other vegetables,salty snack,dishes,house keeping products",4,28.42004376171899
+938,"beef,root vegetables",2,16.5441930499587
+939,"butter milk,rolls/buns,long life bakery product",3,19.73098473955099
+940,"whole milk,pastry",2,14.814864537852088
+941,"uht-milk,bottled water,specialty chocolate",3,19.49029604774995
+942,"specialty chocolate,specialty bar",2,6.386393099822828
+943,"frozen meals,soda",2,20.7899914990532
+944,"pet care,instant coffee,soda,specialty chocolate",4,24.03160984261214
+945,"other vegetables,specialty bar",2,3.811931010338383
+946,"herbs,bottled water,napkins",3,13.974678556434359
+947,"frankfurter,citrus fruit,canned vegetables,coffee",4,19.347777491948605
+948,"soda,specialty chocolate,newspapers",3,15.08173318850103
+949,"whole milk,uht-milk,domestic eggs,newspapers",4,26.498358915062816
+950,"other vegetables,margarine",2,12.806314952880921
+951,"pip fruit,berries",2,13.307449508943582
+952,"bottled water,soda,dishes",3,23.900902065868724
+953,"pastry,syrup",2,14.950194304054722
+954,"other vegetables,pet care",2,7.580450781985151
+955,"whole milk,pastry,vinegar",3,16.514449536727447
+956,"domestic eggs,misc. beverages",2,11.421925790920618
+957,"citrus fruit,specialty bar",2,12.889966228566989
+958,"tropical fruit,whole milk,ice cream",3,31.797669182262545
+959,"coffee,napkins",2,5.65830497364115
+960,"dessert,fruit/vegetable juice,nut snack,specialty bar",4,9.226341536333099
+961,"pip fruit,sweet spreads",2,15.685165546547024
+962,"tropical fruit,other vegetables,whipped/sour cream,white bread",4,38.821369096619705
+963,"spread cheese,soda",2,17.99026684581149
+964,"tropical fruit,yogurt,whipped/sour cream",3,29.37995632546734
+965,"soda,salty snack,specialty bar,candy",4,20.43660074275925
+966,"uht-milk,pastry,waffles",3,25.43101437068147
+967,"soda,fruit/vegetable juice",2,11.496477022085699
+968,"margarine,misc. beverages",2,16.490398954421
+969,"other vegetables,coffee,bottled water,salty snack",4,11.23763958764664
+970,"pastry,chocolate,candles",3,33.02997252455213
+971,"processed cheese,ketchup,seasonal products",3,23.155914945796532
+972,"rolls/buns,pot plants",2,18.895018782722765
+973,"berries,soda,long life bakery product,specialty chocolate",4,27.134323561411627
+974,"whole milk,yogurt",2,16.15565307477892
+975,"soda,fruit/vegetable juice,waffles",3,19.053022819239025
+976,"whole milk,bottled water",2,11.147704433248506
+977,"bottled water,fruit/vegetable juice",2,4.884704146646448
+978,"citrus fruit,pastry",2,17.811368485968543
+979,"meat,root vegetables,whole milk",3,22.55424974272183
+980,"chicken,citrus fruit,rolls/buns,bottled water",4,24.23233756600286
+981,"rolls/buns,oil",2,11.644722485399924
+982,"citrus fruit,other vegetables,butter,rolls/buns",4,24.819160195037725
+983,"beef,other vegetables,canned fish",3,21.15001105395317
+984,"yogurt,brown bread,margarine,napkins",4,27.41508921701324
+985,"meat,whole milk,specialty cheese,domestic eggs",4,33.34876397058121
+986,"waffles,specialty chocolate",2,12.839533375978712
+987,"tropical fruit,other vegetables,skin care",3,28.606167263952447
+988,"meat,rolls/buns,soda",3,25.28344722803247
+989,"soda,specialty chocolate",2,14.252408128060054
+990,"rolls/buns,brown bread",2,11.47809874624053
+991,"whole milk,fruit/vegetable juice",2,11.317113232304125
+992,"pastry,specialty chocolate",2,11.307795357224382
+993,"beverages,long life bakery product",2,13.243322181007287
+994,"other vegetables,newspapers",2,3.537850549781919
+995,"newspapers,photo/film",2,10.46842266066486
+996,"chicken,brown bread,bottled water,newspapers",4,15.858195371605207
+997,"fruit/vegetable juice,cake bar",2,12.36310071402067
+998,"condensed milk,soda",2,19.373630371250258
+999,"frozen meals,soda",2,20.7899914990532
+1000,"pip fruit,brown bread,misc. beverages,chewing gum",4,26.686401651688133
+1001,"whole milk,sugar",2,11.76365480323794
+1002,"pip fruit,fruit/vegetable juice",2,4.297980302934498
+1003,"pip fruit,whole milk,whipped/sour cream",3,18.17623200767711
+1004,"cereals,detergent",2,19.871436710166343
+1005,"soda,chocolate",2,23.544541902960763
+1006,"root vegetables,shopping bags",2,14.818576070565184
+1007,"yogurt,brown bread",2,14.396192414811555
+1008,"white bread,chocolate,shopping bags",3,41.594512070202796
+1009,"pip fruit,other vegetables,frozen vegetables,canned vegetables",4,14.651546874251908
+1010,"curd,meat spreads",2,17.441105598246335
+1011,"tropical fruit,whole milk",2,23.18916535145405
+1012,"brown bread,margarine",2,17.128385563025702
+1013,"chocolate,dishes",2,27.14895519656474
+1014,"soda,specialty chocolate",2,14.252408128060054
+1015,"butter,candy",2,12.806077234368729
+1016,"citrus fruit,whole milk,waffles",3,28.133163264175966
+1017,"rolls/buns,bottled water,shopping bags",3,19.726057439889665
+1018,"other vegetables,white bread,newspapers",3,17.63633414691917
+1019,"root vegetables,whole milk",2,10.687725710678832
+1020,"tidbits,rolls/buns,coffee,salty snack",4,19.687243697745632
+1021,"whole milk,frozen vegetables,coffee",3,20.274001735749493
+1022,"citrus fruit,root vegetables,whole milk,coffee",4,25.211484053227824
+1023,"frankfurter,rolls/buns",2,7.846171582643876
+1024,"other vegetables,whole milk,frozen potato products",3,18.652860994099964
+1025,"chocolate,candy",2,21.5046272367224
+1026,"finished products,seasonal products",2,21.06776693336112
+1027,"whole milk,pastry",2,14.814864537852088
+1028,"whole milk,zwieback,salty snack",3,16.595472663816388
+1029,"uht-milk,artif. sweetener,bottled water",3,21.071045845329323
+1030,"tropical fruit,ice cream,frozen dessert,candy",4,41.847521779586764
+1031,"frozen meals,ice cream",2,20.429074780627033
+1032,"frankfurter,dessert",2,7.18885449712689
+1033,"instant food products,canned vegetables,salty snack",3,5.806477604276504
+1034,"frozen vegetables,margarine,cleaner",3,22.166798068710467
+1035,"citrus fruit,whole milk,semi-finished bread",3,23.6398228196415
+1036,"citrus fruit,yogurt,fruit/vegetable juice,napkins",4,24.600320834408116
+1037,"rolls/buns,prosecco,salty snack",3,12.23688587744868
+1038,"other vegetables,whole milk,butter milk,specialty cheese",4,33.09954146614429
+1039,"oil,fruit/vegetable juice,dishes",3,22.298110154334793
+1040,"frankfurter,rolls/buns",2,7.846171582643876
+1041,"tropical fruit,yogurt,coffee,newspapers",4,25.33122760274721
+1042,"soda,chocolate marshmallow",2,22.419676808406532
+1043,"bottled water,soda,salty snack",3,14.76133701256092
+1044,"yogurt,artif. sweetener",2,14.229333691730588
+1045,"rolls/buns,soda",2,13.416923195989472
+1046,"frozen meals,rolls/buns,brown bread",3,23.298669696059065
+1047,"other vegetables,rolls/buns,bottled water,skin care",4,21.012208992501712
+1048,"rolls/buns,brown bread",2,11.47809874624053
+1049,"coffee,soda",2,11.70661818421411
+1050,"frankfurter,chicken,ice cream,rolls/buns",4,22.095301951335465
+1051,"yogurt,uht-milk,rolls/buns,brown bread",4,30.69335585669551
+1052,"frozen fish,rolls/buns,pastry",3,20.612647845738266
+1053,"frankfurter,soft cheese,rolls/buns",3,17.768947305188767
+1054,"frankfurter,rolls/buns,chewing gum",3,19.3384438138818
+1055,"whole milk,whipped/sour cream,pastry,bottled water",4,24.787763629788056
+1056,"herbs,other vegetables",2,11.40444903331818
+1057,"frankfurter,rolls/buns",2,7.846171582643876
+1058,"other vegetables,frozen fish,newspapers",3,13.678187970366384
+1059,"bottled water,misc. beverages",2,8.750257164676437
+1060,"bottled water,misc. beverages,cooking chocolate",3,20.049308425339788
+1061,"root vegetables,rolls/buns,pastry",3,12.369979376379542
+1062,"misc. beverages,fruit/vegetable juice",2,8.919665963732054
+1063,"beverages,long life bakery product",2,13.243322181007287
+1064,"chicken,root vegetables,yogurt",3,14.90389180443466
+1065,"yogurt,salty snack,napkins",3,13.720972443518377
+1066,"whole milk,frozen fish,pastry",3,24.955201958436554
+1067,"pip fruit,whole milk,soda",3,19.53040113877122
+1068,"fish,citrus fruit",2,17.904997203507076
+1069,"whole milk,butter,yogurt,rolls/buns",4,26.479727072906158
+1070,"ice cream,newspapers",2,9.437828891249474
+1071,"pet care,bottled water",2,7.229572966439624
+1072,"rolls/buns,white bread",2,18.54598624389206
+1073,"yogurt,beverages",2,19.26352874184166
+1074,"liver loaf,whole milk,mustard,shopping bags",4,37.90638200149748
+1075,"tropical fruit,rolls/buns,mustard",3,31.149906816413264
+1076,"margarine,fruit/vegetable juice",2,12.624845936391011
+1077,"whole milk,rolls/buns,coffee,fruit/vegetable juice",4,18.501813514038375
+1078,"butter,mayonnaise,instant coffee",3,19.36081398222884
+1079,"grapes,salty snack,specialty bar,candy",4,13.627866259796198
+1080,"other vegetables,sweet spreads",2,16.6227672058045
+1081,"semi-finished bread,bottled water",2,5.4208530264142745
+1082,"coffee,flower (seeds)",2,13.133382442616588
+1083,"rolls/buns,pastry,napkins,newspapers",4,14.222742824256486
+1084,"other vegetables,white bread,pastry,shopping bags",4,35.75272398421664
+1085,"chicken,butter,white bread",3,25.61568148639277
+1086,"root vegetables,whole milk",2,10.687725710678832
+1087,"citrus fruit,other vegetables,frozen vegetables,sugar",4,26.215431582012297
+1088,"uht-milk,brown bread",2,18.880256894614874
+1089,"frankfurter,white bread,margarine",3,27.594941996566302
+1090,"frozen meals,cleaner",2,15.142832213672065
+1091,"beef,other vegetables",2,17.355049588073904
+1092,"dessert,nut snack,specialty chocolate",3,10.878867121310012
+1093,"root vegetables,other vegetables",2,4.606194440566682
+1094,"whole milk,soft cheese,rolls/buns,brown bread",4,30.19093122823851
+1095,"tropical fruit,pip fruit",2,16.17003242208442
+1096,"other vegetables,yogurt,chocolate",3,24.64924315839287
+1097,"meat,rolls/buns,pastry",3,22.338834457196796
+1098,"root vegetables,other vegetables,canned vegetables,shopping bags",4,18.95245177341667
+1099,"rolls/buns,coffee",2,7.18470028173425
+1100,"rolls/buns,coffee,bottled water",3,9.542347955529664
+1101,"uht-milk,baking powder",2,22.461497216489924
+1102,"whole milk,butter milk,specialty bar",3,23.83155461875526
+1103,"citrus fruit,root vegetables,onions,other vegetables",4,19.231195944123456
+1104,"popcorn,specialty bar,candy",3,10.243996984741214
+1105,"whole milk,dessert,oil",3,19.77746215933603
+1106,"butter,yogurt,rolls/buns,soda",4,26.65909086268773
+1107,"rolls/buns,long life bakery product,candy,shopping bags",4,25.64330540358201
+1108,"rolls/buns,soda,fruit/vegetable juice",3,15.943979668840505
+1109,"citrus fruit,dessert,newspapers",3,16.406071329248345
+1110,"frozen meals,soda",2,20.7899914990532
+1111,"root vegetables,other vegetables,whole milk",3,13.396251200019774
+1112,"whole milk,curd,yogurt,margarine",4,33.56200180181811
+1113,"whole milk,domestic eggs,newspapers",3,14.648698119933664
+1114,"baking powder,coffee,photo/film",3,22.9881316565641
+1115,"yogurt,fruit/vegetable juice,dishes",3,22.466486631015506
+1116,"root vegetables,onions,whole milk,bottled water",4,15.883814180461473
+1117,"other vegetables,yogurt",2,10.074121804666772
+1118,"other vegetables,whipped/sour cream",2,10.323776907481495
+1119,"frozen vegetables,margarine,pickled vegetables",3,24.5908196578811
+1120,"coffee,pot plants",2,17.184713770947404
+1121,"pip fruit,root vegetables,other vegetables,whole milk",4,15.167175030103238
+1122,"yogurt,rolls/buns",2,11.813098962080637
+1123,"beverages,soda",2,20.867352975750496
+1124,"pastry,soda",2,14.994228327633662
+1125,"pip fruit,other vegetables,whole milk",3,13.269506078877498
+1126,"whole milk,whipped/sour cream,rolls/buns,pot plants",4,35.30032696031641
+1127,"other vegetables,whole milk,yogurt,bottled water",4,21.22182623791528
+1128,"oil,bottled water,long life bakery product",3,10.90025726693199
+1129,"frankfurter,meat",2,15.265192967932066
+1130,"whole milk,rolls/buns,semi-finished bread",3,16.30076475882676
+1131,"whole milk,rolls/buns,coffee",3,15.974757041187342
+1132,"pip fruit,pasta,oil,shopping bags",4,28.85831678389147
+1133,"coffee,soda",2,11.70661818421411
+1134,"nuts/prunes,rolls/buns",2,15.421713230403336
+1135,"whole milk,bottled water",2,11.147704433248506
+1136,"abrasive cleaner,napkins",2,14.643470042723177
+1137,"other vegetables,spices,coffee",3,7.4450661562973846
+1138,"whole milk,rolls/buns,spices,bottled water",4,17.59455011198031
+1139,"citrus fruit,candy",2,18.71606659056585
+1140,"butter,soups",2,12.405778682846268
+1141,"root vegetables,butter,margarine",3,17.872029766138148
+1142,"frankfurter,rolls/buns",2,7.846171582643876
+1143,"whole milk,flour,margarine,sugar",4,26.542201773766458
+1144,"other vegetables,chewing gum",2,14.200797720578862
+1145,"whole milk,curd cheese",2,12.037391466175235
+1146,"rolls/buns,baking powder,soda",3,24.028759617350246
+1147,"specialty chocolate,light bulbs",2,18.157332141213796
+1148,"frankfurter,soda",2,12.368089485123736
+1149,"whole milk,waffles,napkins",3,19.267709895268126
+1150,"pip fruit,chewing gum",2,13.263196061321386
+1151,"tropical fruit,shopping bags",2,27.320015711340403
+1152,"other vegetables,rolls/buns,brown bread",3,14.186624235581473
+1153,"rolls/buns,chewing gum",2,15.939774877992727
+1154,"margarine,soda",2,19.067210012774645
+1155,"whole milk,butter,newspapers",3,15.495953171266498
+1156,"white bread,long life bakery product,shopping bags",3,28.364780470968153
+1157,"sliced cheese,hard cheese",2,18.263107850364005
+1158,"yogurt,popcorn,cleaner,newspapers",4,13.72826822036781
+1159,"butter milk,pastry",2,19.96290011670372
+1160,"citrus fruit,domestic eggs",2,16.815877007609142
+1161,"yogurt,coffee",2,10.102793950305273
+1162,"coffee,soda,waffles",3,19.263163981367434
+1163,"whole milk,white bread,long life bakery product",3,24.2339301110818
+1164,"whole milk,semi-finished bread",2,11.853262112071953
+1165,"specialty cheese,frozen meals,soda,shopping bags",4,41.37376549743817
+1166,"whole milk,long life bakery product,chocolate",3,24.710567867670648
+1167,"pastry,pot plants",2,20.472323914366957
+1168,"frozen dessert,bottled water",2,14.268051147576422
+1169,"whole milk,curd,rolls/buns",3,20.546118669707113
+1170,"finished products,bottled water,specialty bar,newspapers",4,16.45946143893746
+1171,"whole milk,fruit/vegetable juice,newspapers",3,12.146438292745103
+1172,"whole milk,cream cheese,salty snack",3,18.095991286489532
+1173,"tropical fruit,other vegetables",2,17.1076340813419
+1174,"beef,root vegetables,jam,toilet cleaner",4,24.20725132375857
+1175,"uht-milk,newspapers",2,12.678985855570128
+1176,"domestic eggs,rolls/buns",2,9.476818946794403
+1177,"beef,citrus fruit,butter,fruit/vegetable juice",4,34.836712630525966
+1178,"bottled water,misc. beverages",2,8.750257164676437
+1179,"soda,candy",2,15.898926432230969
+1180,"chicken,pip fruit,frozen vegetables",3,16.158297709283516
+1181,"beverages,cream cheese,rolls/buns,candy",4,29.146606693772537
+1182,"root vegetables,other vegetables,whole milk,margarine",4,23.49404066355975
+1183,"seasonal products,shopping bags",2,21.819590868996936
+1184,"pet care,waffles",2,12.428471089797535
+1185,"tropical fruit,rolls/buns",2,18.846611238755763
+1186,"beef,salty snack",2,18.0807928882638
+1187,"curd,yogurt,whipped/sour cream,ice cream",4,30.897910827774094
+1188,"curd cheese,rolls/buns,cake bar",3,17.530881594646587
+1189,"onions,whole milk",2,11.628497555440319
+1190,"soda,specialty bar",2,10.072826070232107
+1191,"tropical fruit,chewing gum,specialty chocolate,chocolate marshmallow",4,44.62462466123613
+1192,"beverages,frozen meals,specialty bar,candy",4,31.75141478032811
+1193,"other vegetables,canned fish,soda,shopping bags",4,28.393814623794317
+1194,"yogurt,bottled water",2,9.723243989121245
+1195,"other vegetables,whole milk,fruit/vegetable juice,chocolate",4,28.600760075371163
+1196,"rolls/buns,candy",2,11.377008529751109
+1197,"whole milk,pastry,newspapers",3,15.644189598293066
+1198,"whole milk,whipped/sour cream,rolls/buns,shopping bags",4,33.7737179436879
+1199,"whole milk,dessert,brown bread,specialty bar",4,20.714243941174075
+1200,"finished products,frozen meals,chocolate,shopping bags",4,51.4856826065877
+1201,"whole milk,rolls/buns",2,13.237559406207899
+1202,"bottled water,soda",2,11.327068223030082
+1203,"frozen meals,specialty bar",2,12.923976470815976
+1204,"whole milk,whipped/sour cream",2,16.405308177593646
+1205,"berries,whipped/sour cream,cake bar",3,28.987821338170306
+1206,"berries,fruit/vegetable juice,waffles,specialty bar",4,22.723533469861916
+1207,"whole milk,yogurt,bottled water",3,18.513300748574338
+1208,"other vegetables,whole milk,brown bread",3,18.529178348279757
+1209,"pastry,bottled water,newspapers",3,9.211780512635388
+1210,"beef,onions,whole milk,napkins",4,29.196128992834986
+1211,"other vegetables,butter milk",2,16.646617827645667
+1212,"whole milk,cocoa drinks",2,9.925211363367909
+1213,"root vegetables,other vegetables,rolls/buns,light bulbs",4,21.928041649709897
+1214,"newspapers,flower soil/fertilizer",2,3.355736072775969
+1215,"root vegetables,other vegetables",2,4.606194440566682
+1216,"frankfurter,soda,newspapers",3,13.197414545564714
+1217,"citrus fruit,whole milk",2,20.57661746702264
+1218,"whole milk,curd,baking powder",3,26.710452444313084
+1219,"other vegetables,curd",2,10.017084752840157
+1220,"tropical fruit,grapes",2,16.559794658272573
+1221,"rolls/buns,white bread,coffee",3,21.2831838788715
+1222,"whole milk,butter,soft cheese",3,24.58940383337041
+1223,"root vegetables,onions,other vegetables",3,7.444635236553907
+1224,"rolls/buns,brown bread,soda",3,20.447519295475196
+1225,"cat food,newspapers,shopping bags",3,26.250884173672862
+1226,"soda,cling film/bags,house keeping products",3,25.940290743285228
+1227,"other vegetables,salt,sweet spreads",3,23.731523408391862
+1228,"hygiene articles,house keeping products",2,18.230316949549504
+1229,"uht-milk,rolls/buns",2,16.297163441883956
+1230,"frankfurter,rolls/buns,dishes,shopping bags",4,33.34091254482196
+1231,"pickled vegetables,bottled water,fruit/vegetable juice,newspapers",4,11.460312060111587
+1232,"dessert,cat food,newspapers",3,17.120162615571235
+1233,"citrus fruit,baking powder,sweet spreads,nut snack",4,38.11833282664069
+1234,"rolls/buns,pastry",2,10.472310425153802
+1235,"cream cheese,fruit/vegetable juice",2,8.398722210356631
+1236,"beef,citrus fruit,root vegetables,specialty chocolate",4,33.613741336353634
+1237,"whole milk,rolls/buns",2,13.237559406207899
+1238,"bottled water,soda",2,11.327068223030082
+1239,"citrus fruit,curd,semi-finished bread,mustard",4,34.46162090134513
+1240,"fruit/vegetable juice,seasonal products",2,11.425740222508525
+1241,"whole milk,domestic eggs,oil",3,21.016592898137805
+1242,"long life bakery product,candy",2,8.27489563748776
+1243,"soda,chocolate",2,23.544541902960763
+1244,"frankfurter,whipped/sour cream,coffee",3,13.751117989009067
+1245,"hard cheese,pastry",2,13.355702767474417
+1246,"pip fruit,coffee",2,4.508121465062908
+1247,"tropical fruit,pip fruit,grapes,whole milk",4,27.120775247809128
+1248,"finished products,cat food,shopping bags",3,37.59064229693551
+1249,"tropical fruit,root vegetables,rolls/buns,newspapers",4,21.57360525042248
+1250,"whole milk,curd,whipped/sour cream",3,23.71386744109286
+1251,"citrus fruit,tropical fruit",2,26.185669299570506
+1252,"herbs,whole milk,pastry",3,23.510788081829325
+1253,"frankfurter,chocolate",2,17.973790289615167
+1254,"white bread,brown bread",2,21.129079696622973
+1255,"yogurt,canned vegetables,pot plants",3,23.238462664804334
+1256,"whole milk,sugar,cling film/bags",3,19.031109357279938
+1257,"salt,candy",2,14.038262085583662
+1258,"other vegetables,yogurt,whipped/sour cream,newspapers",4,18.518698283248302
+1259,"whole milk,hard cheese,sugar",3,19.094549792313362
+1260,"soda,detergent",2,19.18172347213107
+1261,"yogurt,margarine,newspapers",3,18.292710839306785
+1262,"butter,curd",2,13.185130614871643
+1263,"salty snack,dental care",2,10.83199021980688
+1264,"whole milk,instant coffee,soda",3,22.666753730595637
+1265,"mayonnaise,candy,newspapers",3,16.335797152385815
+1266,"whipped/sour cream,domestic eggs,candles",3,25.074611110607183
+1267,"beverages,misc. beverages",2,18.29054191739685
+1268,"yogurt,bottled water",2,9.723243989121245
+1269,"salty snack,candy",2,10.363774672527141
+1270,"citrus fruit,other vegetables",2,14.495086196910488
+1271,"tropical fruit,fruit/vegetable juice,candy",3,23.855670947848292
+1272,"whole milk,whipped/sour cream,pudding powder",3,30.95836564913564
+1273,"tropical fruit,ice cream,frozen dessert",3,34.91801589659046
+1274,"tropical fruit,packaged fruit/vegetables",2,24.995754030628127
+1275,"other vegetables,uht-milk,cream",3,19.782653977473295
+1276,"yogurt,cream cheese,rolls/buns,chocolate",4,32.25988605331233
+1277,"tropical fruit,butter milk,baking powder",3,38.94903735166646
+1278,"yogurt,pastry",2,13.390404093724825
+1279,"tropical fruit,yogurt,cream cheese",3,27.636370644832386
+1280,"uht-milk,brown bread,newspapers",3,19.70958195505585
+1281,"pastry,soda",2,14.994228327633662
+1282,"whipped/sour cream,rolls/buns",2,12.062754064895358
+1283,"soda,long life bakery product",2,10.314810303726123
+1284,"whole milk,beverages,bottled water,newspapers",4,23.874961920205315
+1285,"yogurt,soda,waffles",3,23.89156266171382
+1286,"yogurt,processed cheese,frozen vegetables,rolls/buns",4,31.205599743653465
+1287,"condensed milk,rolls/buns,sugar,coffee",4,20.56250814753469
+1288,"whole milk,photo/film",2,18.429154359676975
+1289,"rolls/buns,soda",2,13.416923195989472
+1290,"pip fruit,rolls/buns",2,6.218426476838271
+1291,"tropical fruit,brown bread",2,21.42970469148668
+1292,"citrus fruit,dessert,photo/film",3,25.21584386903125
+1293,"citrus fruit,pip fruit,whole milk,margarine",4,32.44533076064608
+1294,"seasonal products,photo/film",2,18.537781349881374
+1295,"rolls/buns,bottled water,soda",3,15.774570869784888
+1296,"whole milk,yogurt",2,16.15565307477892
+1297,"pip fruit,beverages,pastry,hygiene articles",4,28.220565344539228
+1298,"yogurt,bottled water",2,9.723243989121245
+1299,"yogurt,cream cheese,rolls/buns",3,17.684764699586236
+1300,"citrus fruit,yogurt,hygiene articles",3,27.679058332436316
+1301,"uht-milk,condensed milk,coffee,cling film/bags",4,32.258522806166184
+1302,"pip fruit,cream cheese,cookware",3,22.171480687885108
+1303,"root vegetables,whipped/sour cream,oil,pet care",4,21.58206550065562
+1304,"other vegetables,cake bar",2,12.544569730510577
+1305,"whole milk,shopping bags",2,21.710963878792537
+1306,"bottled water,soda",2,11.327068223030082
+1307,"frozen meals,canned fruit",2,20.36205036154814
+1308,"pip fruit,yogurt",2,9.136520145409294
+1309,"rolls/buns,shopping bags",2,17.368409766094253
+1310,"whipped/sour cream,pastry,bottled water",3,15.997706870334964
+1311,"long life bakery product,house keeping products",2,11.048805394500024
+1312,"tropical fruit,brown bread,pastry",3,27.454512469885678
+1313,"whole milk,coffee",2,11.527254394432536
+1314,"beverages,sauces,sweet spreads,pot plants",4,45.19606132913181
+1315,"cream cheese,rolls/buns",2,10.319168384260404
+1316,"frozen vegetables,frozen meals",2,20.567318291135493
+1317,"root vegetables,other vegetables,yogurt,flower (seeds)",4,22.367975563529658
+1318,"citrus fruit,curd,uht-milk",3,30.944780766197912
+1319,"rolls/buns,instant food products",2,5.394361247989927
+1320,"frozen vegetables,bottled water",2,11.104395015112374
+1321,"whole milk,fruit/vegetable juice",2,11.317113232304125
+1322,"other vegetables,soft cheese",2,12.63130121188583
+1323,"whole milk,rolls/buns,chewing gum",3,24.72983163744582
+1324,"beverages,chocolate",2,26.473053780241926
+1325,"finished products,candy",2,19.09858906669993
+1326,"specialty chocolate,photo/film",2,14.922085179049269
+1327,"skin care,napkins",2,14.419640521272253
+1328,"condensed milk,rolls/buns",2,14.851712468770398
+1329,"hard cheese,instant food products",2,8.277753590310542
+1330,"whole milk,butter,cat food",3,27.16728010471796
+1331,"frankfurter,rolls/buns",2,7.846171582643876
+1332,"yogurt,fruit/vegetable juice",2,9.892652788176864
+1333,"soda,long life bakery product",2,10.314810303726123
+1334,"pip fruit,butter milk,soda",3,24.678436717622855
+1335,"pip fruit,soda,chewing gum",3,22.23261661055605
+1336,"dessert,waffles",2,11.346731358391144
+1337,"whole milk,rolls/buns,pastry,newspapers",4,20.09169224504787
+1338,"frankfurter,whole milk,rolls/buns,salt",4,23.74498454468433
+1339,"whole milk,pastry",2,14.814864537852088
+1340,"rolls/buns,dishes",2,17.02133648959345
+1341,"soups,canned vegetables,chocolate",3,22.52967889871048
+1342,"rolls/buns,pastry,sugar",3,13.44590846893865
+1343,"curd,soda,cake bar",3,26.114024053903517
+1344,"rolls/buns,coffee",2,7.18470028173425
+1345,"frankfurter,whole milk,butter,dessert",4,21.85548260795241
+1346,"meat,frozen meals,fruit/vegetable juice",3,26.214151454712564
+1347,"turkey,tropical fruit,yogurt,rolls/buns",4,33.705607389753645
+1348,"citrus fruit,specialty fat",2,14.382161446127228
+1349,"whipped/sour cream,frozen vegetables,frozen meals",3,28.18256970927605
+1350,"rolls/buns,brown bread",2,11.47809874624053
+1351,"spread cheese,white bread,newspapers",3,23.948654954155053
+1352,"root vegetables,soft cheese",2,11.820444673770629
+1353,"frankfurter,butter,brown bread",3,16.305836386747224
+1354,"curd,yogurt",2,14.674155578825046
+1355,"pip fruit,soda",2,10.740344379318131
+1356,"instant coffee,photo/film",2,14.54637402213176
+1357,"curd,uht-milk,bottled water",3,21.51586773242378
+1358,"rolls/buns,soda,chewing gum",3,24.909195427227395
+1359,"tropical fruit,pip fruit,whole milk,pastry",4,30.98489695993651
+1360,"tropical fruit,brown bread,specialty bar",3,22.53311021248412
+1361,"dessert,brown bread",2,10.820781660723544
+1362,"citrus fruit,misc. beverages",2,18.17917019845057
+1363,"whole milk,rolls/buns,syrup",3,22.162945931863625
+1364,"whole milk,processed cheese,spread cheese,rolls/buns",4,32.90415914304059
+1365,"frozen meals,white bread,fruit/vegetable juice",3,28.44611101980682
+1366,"dessert,yogurt,cat food,napkins",4,26.577541209117797
+1367,"rolls/buns,sugar,coffee,soda",4,19.127718874753764
+1368,"butter,napkins",2,8.797678690034136
+1369,"chicken,fruit/vegetable juice,long life bakery product",3,9.513072765225582
+1370,"rolls/buns,soda,snack products",3,20.182272272728476
+1371,"rolls/buns,pastry,coffee",3,13.209508060133246
+1372,"pasta,sauces",2,11.905637046007907
+1373,"waffles,chocolate,specialty chocolate",3,27.414654729704807
+1374,"pasta,specialty chocolate,dishes",3,24.826087417487475
+1375,"yogurt,frozen dessert",2,19.275999789106837
+1376,"whole milk,coffee,cooking chocolate,newspapers",4,23.655630715536862
+1377,"tropical fruit,yogurt,beverages",3,33.66263733384262
+1378,"yogurt,sugar,shopping bags",3,23.260101478450125
+1379,"meat,whole milk,rolls/buns",3,25.104083438250896
+1380,"soda,bathroom cleaner",2,10.834992093605585
+1381,"whole milk,frozen vegetables",2,17.536804100770052
+1382,"specialty bar,house keeping products",2,10.806821161006008
+1383,"berries,yogurt,whipped/sour cream",3,26.5173734123265
+1384,"dessert,soda",2,12.759606110472486
+1385,"whole milk,dessert,coffee,bottled water",4,17.67508762946577
+1386,"other vegetables,rolls/buns,hair spray",3,17.347871082057587
+1387,"misc. beverages,napkins",2,9.313716829542729
+1388,"whipped/sour cream,margarine,long life bakery product",3,19.058430636171988
+1389,"tropical fruit,whipped/sour cream,jam",3,28.846762154010765
+1390,"citrus fruit,pip fruit",2,13.557484537653012
+1391,"waffles,specialty bar",2,8.659951318150766
+1392,"pip fruit,whipped/sour cream",2,9.386175248224017
+1393,"margarine,candy",2,17.02729534653628
+1394,"whole milk,rolls/buns,salt",3,20.34631560879526
+1395,"whole milk,soft cheese,sliced cheese",3,29.645045343286565
+1396,"rolls/buns,meat spreads",2,14.580048981501925
+1397,"meat,other vegetables",2,14.575049521383939
+1398,"pastry,long life bakery product",2,7.370197532890453
+1399,"rolls/buns,brown bread",2,11.47809874624053
+1400,"frankfurter,whole milk,rolls/buns,newspapers",4,17.465553402537946
+1401,"frozen fruits,soda,specialty bar",3,20.797724060313964
+1402,"hard cheese,pasta,soda,waffles",4,30.82612733128686
+1403,"dessert,yogurt",2,11.15578187656365
+1404,"other vegetables,condensed milk,soda",3,22.0821558605912
+1405,"yogurt,rolls/buns",2,11.813098962080637
+1406,"packaged fruit/vegetables,pastry",2,16.62145321702617
+1407,"cat food,misc. beverages,female sanitary products",3,31.46102860500388
+1408,"root vegetables,herbs,other vegetables",3,13.30211798454392
+1409,"tropical fruit,rolls/buns,misc. beverages",3,25.239220729636784
+1410,"whole milk,white bread",2,22.888540356590344
+1411,"whole milk,butter,sugar",3,17.640226154610367
+1412,"whole milk,bottled water,soda,chewing gum",4,31.609397213721095
+1413,"root vegetables,dog food,bottled water",3,14.909160604053767
+1414,"tropical fruit,seasonal products",2,23.29779234165845
+1415,"whole milk,butter,soda,chocolate",4,38.21117001378629
+1416,"soda,waffles",2,16.525966346387992
+1417,"beverages,photo/film",2,21.537030026739714
+1418,"hygiene articles,photo/film",2,18.165998909764824
+1419,"pastry,bottled water,specialty chocolate",3,13.665443031019798
+1420,"rolls/buns,pickled vegetables",2,10.193785499778969
+1421,"instant coffee,long life bakery product",2,6.252666176399334
+1422,"liver loaf,tropical fruit,other vegetables",3,20.99975662638934
+1423,"root vegetables,whole milk,hard cheese,specialty cheese",4,25.68148757879978
+1424,"waffles,specialty chocolate",2,12.839533375978712
+1425,"soda,specialty bar",2,10.072826070232107
+1426,"whole milk,margarine,soda",3,27.85726677222774
+1427,"whole milk,domestic eggs,rolls/buns,fruit/vegetable juice",4,20.793932179098526
+1428,"whole milk,brown bread",2,15.820652858938816
+1429,"whole milk,frozen meals,bottled water",3,22.96827538306704
+1430,"citrus fruit,root vegetables,frozen vegetables,chewing gum",4,33.92324923135017
+1431,"dish cleaner,shopping bags",2,19.75960994298824
+1432,"rolls/buns,soda",2,13.416923195989472
+1433,"beverages,rolls/buns,soda,seasonal products",4,34.21353937216279
+1434,"whole milk,newspapers",2,9.61938181989407
+1435,"meat,curd,whipped/sour cream,roll products",4,33.8060764947677
+1436,"soda,chewing gum",2,20.46169278047259
+1437,"chicken,candy",2,12.570132420879393
+1438,"other vegetables,rolls/buns",2,7.156028136095748
+1439,"ice cream,rolls/buns,chocolate",3,27.631127831289398
+1440,"fish,specialty chocolate",2,11.401424074762916
+1441,"tropical fruit,whole milk,butter,syrup",4,37.9911232284822
+1442,"uht-milk,canned fish",2,15.644622261008415
+1443,"frozen meals,soda,specialty chocolate",3,26.07297907787859
+1444,"berries,brown bread",2,18.567121778345843
+1445,"yogurt,beverages,soda,shopping bags",4,41.15385641041577
+1446,"brown bread,seasonal products",2,15.929279849143215
+1447,"domestic eggs,waffles,napkins",3,15.506969435854629
+1448,"rolls/buns,white bread",2,18.54598624389206
+1449,"pip fruit,bottled water",2,4.128571503878879
+1450,"whole milk,fruit/vegetable juice,chewing gum,shopping bags",4,35.73029258288149
+1451,"onions,whole milk",2,11.628497555440319
+1452,"other vegetables,whole milk",2,11.498582248794033
+1453,"other vegetables,cream cheese",2,8.58019122684654
+1454,"fruit/vegetable juice,long life bakery product,newspapers",3,4.701771287783467
+1455,"other vegetables,whole milk,dessert,chewing gum",4,26.781040041269776
+1456,"chocolate,specialty chocolate",2,19.858108932551485
+1457,"frankfurter,whole milk,white bread,brown bread",4,33.31780539196514
+1458,"root vegetables,herbs",2,10.593592495202977
+1459,"citrus fruit,tropical fruit,pip fruit,chewing gum",4,39.44886536089189
+1460,"tropical fruit,whole milk,newspapers,shopping bags",4,36.93939753123447
+1461,"other vegetables,semi-finished bread",2,5.771730841959801
+1462,"meat,other vegetables,salty snack",3,18.00931831091478
+1463,"whole milk,brown bread",2,15.820652858938816
+1464,"coffee,instant coffee",2,7.64447405688732
+1465,"rolls/buns,pastry",2,10.472310425153802
+1466,"ice cream,semi-finished bread",2,11.671709183427357
+1467,"liver loaf,whole milk,rolls/buns,soda",4,26.099102500490005
+1468,"chewing gum,seasonal products",2,20.390955980895413
+1469,"soda,salty snack,cake bar,candy",4,29.169239462931444
+1470,"chicken,tropical fruit,pip fruit,other vegetables",4,24.519184449308455
+1471,"soft cheese,ice cream",2,18.531279553353386
+1472,"whole milk,white bread,newspapers",3,23.71786541703132
+1473,"pastry,instant coffee",2,10.932084200306873
+1474,"citrus fruit,yogurt,whipped/sour cream,shopping bags",4,39.68831556037537
+1475,"ice cream,soda",2,17.577924380043164
+1476,"root vegetables,other vegetables,white bread,baking powder",4,29.31651445906471
+1477,"other vegetables,fruit/vegetable juice,salty snack,napkins",4,11.590958090384522
+1478,"coffee,tea",2,8.266809800734581
+1479,"other vegetables,coffee,soda,dental care",4,21.81286510383109
+1480,"misc. beverages,dishes",2,18.966443333719663
+1481,"whole milk,meat spreads,fruit/vegetable juice",3,21.449659567051242
+1482,"chicken,yogurt,whipped/sour cream",3,20.621474271349474
+1483,"dessert,specialty chocolate",2,9.073173140063206
+1484,"pastry,margarine,coffee",3,18.859794876918418
+1485,"onions,frozen meals",2,14.65901174580576
+1486,"pastry,soda",2,14.994228327633662
+1487,"whole milk,hard cheese,rolls/buns,bottled water",4,22.926102069078734
+1488,"pip fruit,whole milk",2,10.560980589536557
+1489,"instant food products,soda",2,9.916279150469787
+1490,"meat,whole milk,yogurt",3,28.022177106821918
+1491,"whipped/sour cream,frozen vegetables",2,16.361998759457514
+1492,"tropical fruit,whipped/sour cream,hygiene articles",3,30.541261319682448
+1493,"bottled water,waffles,chocolate",3,24.489314824674835
+1494,"beef,specialty chocolate",2,19.92951167755835
+1495,"frankfurter,rolls/buns",2,7.846171582643876
+1496,"uht-milk,mustard",2,24.152956372786655
+1497,"whole milk,brown bread",2,15.820652858938816
+1498,"butter milk,brown bread",2,20.968688437790448
+1499,"chicken,rolls/buns,bottled water",3,12.445776858433312
+1500,"whole milk,cat food",2,21.290708753345534
+1501,"sliced cheese,rolls/buns",2,15.37971550804339
+1502,"butter milk,yogurt",2,21.303688653630555
+1503,"butter,yogurt",2,13.242167666698258
+1504,"tropical fruit,whole milk,newspapers",3,24.018490411895026
+1505,"softener,newspapers",2,2.553767716969369
+1506,"rolls/buns,pastry,semi-finished bread",3,13.535515777772662
+1507,"tropical fruit,whole milk",2,23.18916535145405
+1508,"other vegetables,whole milk,specialty cheese",3,19.16144912783956
+1509,"margarine,misc. beverages",2,16.490398954421
+1510,"salt,salty snack",2,10.5430249921182
+1511,"other vegetables,whole milk,salty snack",3,14.932851038324873
+1512,"frankfurter,processed cheese,soda",3,23.013842925379606
+1513,"frankfurter,beef,whole milk",3,26.835249794075125
+1514,"fish,uht-milk,cream cheese,ice cream",4,32.44826685938077
+1515,"chewing gum,specialty bar",2,12.595677752235362
+1516,"uht-milk,soda,detergent",3,31.031384267260215
+1517,"meat,rolls/buns,misc. beverages",3,22.706636169678823
+1518,"pip fruit,rolls/buns,snack products",3,12.983775553577274
+1519,"other vegetables,whole milk,butter milk,margarine",4,35.53446405063874
+1520,"whole milk,butter milk,cream cheese,coffee",4,31.33701247024286
+1521,"yogurt,rolls/buns",2,11.813098962080637
+1522,"pip fruit,soda",2,10.740344379318131
+1523,"whole milk,domestic eggs",2,13.819373059492687
+1524,"bottled water,newspapers",2,3.186972734236392
+1525,"bottled water,soda",2,11.327068223030082
+1526,"citrus fruit,curd,yogurt,newspapers",4,27.29004134683557
+1527,"whole milk,curd,oil,margarine",4,33.39362532513741
+1528,"fruit/vegetable juice,pot plants",2,16.974572608818995
+1529,"other vegetables,cream cheese",2,8.58019122684654
+1530,"pip fruit,pastry",2,7.795731608482461
+1531,"whole milk,sugar,cat food",3,24.26430679713038
+1532,"beef,rolls/buns",2,19.094026745487767
+1533,"pastry,coffee,chewing gum",3,20.25427764461636
+1534,"tropical fruit,bottled water",2,16.756756265796373
+1535,"root vegetables,other vegetables,cream cheese,chocolate",4,25.052981531798377
+1536,"whole milk,yogurt",2,16.15565307477892
+1537,"whole milk,rolls/buns,bottled water",3,15.595207080003313
+1538,"detergent,photo/film",2,19.851400523120283
+1539,"other vegetables,whole milk",2,11.498582248794033
+1540,"fruit/vegetable juice,waffles",2,10.08360227000436
+1541,"pip fruit,pastry,margarine",3,17.893521072022438
+1542,"zwieback,cat food,dish cleaner",3,23.710501932373692
+1543,"root vegetables,rolls/buns",2,6.345171597980546
+1544,"whole milk,rolls/buns,baking powder,chocolate",4,38.424517181294775
+1545,"pip fruit,whole milk,frozen vegetables,bottled water",4,21.665375604648933
+1546,"meat,whole milk,rolls/buns",3,25.104083438250896
+1547,"root vegetables,white bread,brown bread",3,23.026748647848716
+1548,"grapes,other vegetables,whole milk,sugar",4,16.6328663588505
+1549,"citrus fruit,other vegetables",2,14.495086196910488
+1550,"chicken,beef,other vegetables",3,22.995676125956994
+1551,"other vegetables,hard cheese,newspapers",3,10.86874553885734
+1552,"frozen potato products,rolls/buns,brown bread",3,18.63237749154646
+1553,"other vegetables,whole milk,margarine",3,21.59637171233401
+1554,"pip fruit,other vegetables,fruit/vegetable juice",3,7.006505792275439
+1555,"frozen meals,ice cream,frozen potato products",3,27.58335352593296
+1556,"whole milk,frozen fish,rolls/buns,pickled vegetables",4,29.124179679816525
+1557,"mayonnaise,rolls/buns,soda,specialty chocolate",4,27.276876983763394
+1558,"rolls/buns,fruit/vegetable juice",2,6.974559119605839
+1559,"hard cheese,candles",2,19.760938381502456
+1560,"bottled water,newspapers",2,3.186972734236392
+1561,"citrus fruit,domestic eggs,jam",3,23.6482791514784
+1562,"domestic eggs,specialty chocolate",2,10.312303878864983
+1563,"frankfurter,citrus fruit,rolls/buns,soda",4,28.60215283944809
+1564,"white bread,misc. beverages,long life bakery product",3,21.83648284250973
+1565,"frankfurter,rolls/buns,bottled water",3,10.203819256439292
+1566,"beverages,newspapers",2,12.727257486956807
+1567,"butter,brown bread,seasonal products",3,21.805851200515644
+1568,"salt,cling film/bags",2,14.376210756629355
+1569,"beef,root vegetables,whole milk,margarine",4,35.43203927295177
+1570,"curd,semi-finished bread,baking powder",3,20.983601037478852
+1571,"fruit/vegetable juice,chewing gum",2,14.019328704088954
+1572,"frankfurter,whole milk,cream cheese,specialty chocolate",4,23.34337901167315
+1573,"citrus fruit,root vegetables,other vegetables",3,16.392755148136228
+1574,"tropical fruit,curd",2,21.707667855500173
+1575,"citrus fruit,root vegetables,other vegetables,whole milk",4,25.182811907589322
+1576,"beef,other vegetables,whipped/sour cream,newspapers",4,25.79962606665543
+1577,"whole milk,butter,rolls/buns",3,19.114130757580327
+1578,"whole milk,bottled water",2,11.147704433248506
+1579,"chicken,frozen vegetables,frozen meals,frozen dessert",4,38.11834830279959
+1580,"whole milk,rolls/buns",2,13.237559406207899
+1581,"whole milk,butter milk",2,22.728149097757818
+1582,"citrus fruit,other vegetables,yogurt",3,21.86068251223632
+1583,"other vegetables,whole milk,yogurt,rolls/buns",4,23.31168121087467
+1584,"rolls/buns,fruit/vegetable juice",2,6.974559119605839
+1585,"frozen vegetables,rolls/buns",2,13.194249988071766
+1586,"other vegetables,curd,margarine",3,20.114874216380137
+1587,"other vegetables,whole milk,bottled water",3,13.85622992258945
+1588,"ice cream,brown bread",2,15.63909993029422
+1589,"pastry,soda",2,14.994228327633662
+1590,"onions,other vegetables,soda,fruit/vegetable juice",4,17.043443307413867
+1591,"other vegetables,whole milk,yogurt",3,18.864178564119864
+1592,"yogurt,rolls/buns",2,11.813098962080637
+1593,"whole milk,curd,pastry",3,22.123423801351304
+1594,"frankfurter,pip fruit,whole milk,soda",4,22.929070074660295
+1595,"whole milk,mayonnaise,soda,newspapers",4,27.16576857807727
+1596,"condensed milk,soda",2,19.373630371250258
+1597,"margarine,long life bakery product,candles",3,23.87322261045847
+1598,"whole milk,pet care",2,13.6619820520973
+1599,"processed cheese,rolls/buns,soda,flower (seeds)",4,34.45886144388248
+1600,"whole milk,rolls/buns,newspapers",3,14.066884466648876
+1601,"turkey,beef,semi-finished bread",3,25.203129287023874
+1602,"other vegetables,napkins",2,5.629632828002649
+1603,"hard cheese,salt,canned vegetables",3,15.865001405173324
+1604,"other vegetables,curd cheese",2,5.955860196063084
+1605,"chicken,flower (seeds)",2,16.036811345520235
+1606,"other vegetables,newspapers",2,3.537850549781919
+1607,"chicken,other vegetables,dessert,soda",4,21.10875813769652
+1608,"bottled water,soda",2,11.327068223030082
+1609,"soda,candy",2,15.898926432230969
+1610,"whipped/sour cream,long life bakery product,napkins,pot plants",4,26.329264647261677
+1611,"onions,other vegetables",2,5.546966285328168
+1612,"frozen vegetables,soda",2,17.716167890551624
+1613,"pip fruit,frozen meals,ice cream,fruit/vegetable juice",4,24.727055083561527
+1614,"tropical fruit,root vegetables,domestic eggs",3,21.326093843266293
+1615,"margarine,soda",2,19.067210012774645
+1616,"domestic eggs,pastry",2,11.05412407843859
+1617,"condensed milk,pastry,female sanitary products,shopping bags",4,41.91769183998445
+1618,"tropical fruit,whole milk,beverages,rolls/buns",4,39.53460042472469
+1619,"root vegetables,other vegetables,specialty chocolate",3,9.889182019392068
+1620,"citrus fruit,soda,misc. beverages",3,27.148590747685237
+1621,"waffles,newspapers",2,8.385870857594302
+1622,"beverages,uht-milk,zwieback,misc. beverages",4,34.51134982735846
+1623,"salty snack,chocolate",2,18.009390143256937
+1624,"white bread,brown bread",2,21.129079696622973
+1625,"whole milk,frozen vegetables,pastry,cleaner",4,26.883873143022576
+1626,"butter milk,hard cheese,instant coffee",3,26.176263749288026
+1627,"sugar,coffee",2,5.710795678764292
+1628,"soups,canned vegetables",2,7.954557544984382
+1629,"bottled water,soda,female sanitary products",3,23.894835343260496
+1630,"other vegetables,whole milk,brown bread",3,18.529178348279757
+1631,"frankfurter,other vegetables",2,6.107194425230013
+1632,"domestic eggs,pastry,hygiene articles",3,19.58102538797953
+1633,"tropical fruit,oil",2,21.596328430646075
+1634,"pastry,soda",2,14.994228327633662
+1635,"other vegetables,condensed milk,coffee,detergent",4,26.062235869232378
+1636,"whole milk,pastry",2,14.814864537852088
+1637,"root vegetables,onions,other vegetables,whole milk",4,16.234691996007
+1638,"tropical fruit,other vegetables,yogurt,chewing gum",4,35.96550262790565
+1639,"specialty chocolate,photo/film",2,14.922085179049269
+1640,"other vegetables,frozen meals,domestic eggs",3,19.55841273919907
+1641,"tropical fruit,other vegetables,newspapers",3,17.936959141782875
+1642,"tropical fruit,other vegetables,yogurt",3,24.47323039666773
+1643,"misc. beverages,waffles,candy",3,20.87866117103065
+1644,"other vegetables,yogurt,white bread",3,24.172605401804024
+1645,"other vegetables,chocolate marshmallow",2,16.15878174851281
+1646,"whole milk,butter",2,14.66662811082552
+1647,"misc. beverages,napkins",2,9.313716829542729
+1648,"whole milk,whipped/sour cream,cream cheese,soda",4,31.24639446433391
+1649,"chicken,other vegetables",2,8.349152027224033
+1650,"dessert,long life bakery product",2,5.135575315729277
+1651,"soda,soap",2,18.565398739420093
+1652,"root vegetables,whipped/sour cream",2,9.512920369366293
+1653,"soda,misc. beverages",2,15.362030040115688
+1654,"chicken,root vegetables",2,7.538295489108831
+1655,"beverages,specialty bar",2,13.00133794751327
+1656,"chicken,soda",2,14.610047087117756
+1657,"citrus fruit,bottled water,dishes",3,26.718042224203604
+1658,"tropical fruit,yogurt,rolls/buns",3,26.212207554081594
+1659,"tropical fruit,other vegetables,pickled vegetables",3,22.85391693436606
+1660,"cream cheese,spread cheese",2,14.892512034082422
+1661,"rolls/buns,specialty bar",2,5.550908167752247
+1662,"meat,tropical fruit,other vegetables,candy",4,35.9036639963812
+1663,"brown bread,sauces,pet care",3,16.838892442314396
+1664,"uht-milk,brown bread,coffee,shopping bags",4,34.53836164893376
+1665,"whole milk,butter milk",2,22.728149097757818
+1666,"brown bread,jam,fruit/vegetable juice",3,16.39005471620601
+1667,"other vegetables,baking powder,napkins",3,16.241469249363426
+1668,"whole milk,bottled water",2,11.147704433248506
+1669,"pastry,jam",2,12.85720992226825
+1670,"beverages,bottled water,long life bakery product",3,15.600969854802702
+1671,"tropical fruit,packaged fruit/vegetables,sliced cheese",3,35.92796689191671
+1672,"beef,root vegetables,white bread,soda",4,39.612097196330616
+1673,"rolls/buns,bottled water,dental care,shopping bags",4,27.123778870165705
+1674,"domestic eggs,salty snack,popcorn,napkins",4,13.595778008979615
+1675,"whole milk,jam,canned fish,waffles",4,26.973966166354938
+1676,"whole milk,cake bar",2,18.62610100062273
+1677,"hard cheese,rolls/buns,sugar,candy",4,21.681501562611377
+1678,"yogurt,margarine,fruit/vegetable juice,shopping bags",4,32.91134937105629
+1679,"whole milk,yogurt",2,16.15565307477892
+1680,"citrus fruit,newspapers",2,12.615885768010525
+1681,"whipped/sour cream,frozen vegetables,hygiene articles",3,24.888900068998453
+1682,"yogurt,beverages,frozen meals,long life bakery product",4,32.42948944615165
+1683,"pastry,soda",2,14.994228327633662
+1684,"berries,pastry,seasonal products,shopping bags",4,39.38092432625605
+1685,"domestic eggs,soda,cake bar",3,23.834781090443897
+1686,"curd,rolls/buns,long life bakery product",3,13.101451664745479
+1687,"spread cheese,rolls/buns,canned fish",3,17.263310409210895
+1688,"coffee,soda",2,11.70661818421411
+1689,"other vegetables,whole milk,rolls/buns",3,15.94608489554884
+1690,"dessert,fruit/vegetable juice,long life bakery product,waffles",4,15.219177585733636
+1691,"whole milk,whipped/sour cream",2,16.405308177593646
+1692,"frankfurter,whole milk,mustard,chewing gum",4,35.984293504237584
+1693,"berries,root vegetables,whole milk",3,22.22425138953895
+1694,"whole milk,margarine",2,18.88784622299307
+1695,"frankfurter,rolls/buns,chocolate",3,22.421292936369973
+1696,"beef,butter",2,20.523095450105387
+1697,"whole milk,soda",2,17.759477308687757
+1698,"pip fruit,whole milk",2,10.560980589536557
+1699,"frankfurter,rolls/buns,soda,specialty bar",4,17.918997652875984
+1700,"soda,seasonal products",2,17.868104298892156
+1701,"chewing gum,specialty chocolate",2,16.775259810063307
+1702,"flour,sugar",2,7.6543555507733885
+1703,"tropical fruit,pip fruit,whole milk,flower soil/fertilizer",4,27.486500193872505
+1704,"pip fruit,berries,yogurt",3,20.673045824269412
+1705,"yogurt,margarine",2,17.46338577886581
+1706,"whole milk,cereals",2,18.44919054672303
+1707,"whole milk,margarine",2,18.88784622299307
+1708,"pastry,soda",2,14.994228327633662
+1709,"frozen meals,soda",2,20.7899914990532
+1710,"root vegetables,whole milk,curd",3,17.996284974178046
+1711,"dessert,frozen meals,soda,seasonal products",4,33.478860809948515
+1712,"soda,fruit/vegetable juice",2,11.496477022085699
+1713,"beef,cat food,newspapers",3,27.976501153066376
+1714,"citrus fruit,whipped/sour cream",2,19.4018121257101
+1715,"berries,whipped/sour cream,domestic eggs",3,24.181093397040264
+1716,"meat,chicken,other vegetables,whole milk",4,29.00573281872012
+1717,"yogurt,domestic eggs",2,12.394912615365426
+1718,"citrus fruit,root vegetables,other vegetables,ice cream",4,25.001258978944726
+1719,"soda,nut snack,flower (seeds)",3,21.171299338118615
+1720,"fruit/vegetable juice,hygiene articles,napkins",3,13.975065121053678
+1721,"citrus fruit,root vegetables,whole milk,curd",4,29.782845681747595
+1722,"whipped/sour cream,frozen vegetables,newspapers",3,17.19132381989849
+1723,"yogurt,sliced cheese,frozen meals",3,30.11838012643295
+1724,"chicken,other vegetables",2,8.349152027224033
+1725,"tropical fruit,mustard,sauces",3,31.63877521984292
+1726,"butter,curd",2,13.185130614871643
+1727,"candy,photo/film",2,16.568603483220183
+1728,"whipped/sour cream,brown bread",2,14.645847517626276
+1729,"tropical fruit,whole milk,candles",3,35.61920874388108
+1730,"rolls/buns,specialty chocolate",2,9.730490225580194
+1731,"pastry,soda",2,14.994228327633662
+1732,"citrus fruit,yogurt,canned fruit",3,27.69363643462498
+1733,"soda,snack products,detergent",3,25.94707254887007
+1734,"citrus fruit,rolls/buns,specialty bar",3,17.337468875321793
+1735,"soda,misc. beverages,candy",3,22.29153592311199
+1736,"pastry,long life bakery product,waffles,napkins",4,17.847850668705487
+1737,"soda,fruit/vegetable juice",2,11.496477022085699
+1738,"yogurt,specialty bar",2,8.46900183632327
+1739,"frankfurter,onions,pickled vegetables",3,11.983392584900457
+1740,"frankfurter,packaged fruit/vegetables,soft cheese,soda",4,32.8875106462958
+1741,"citrus fruit,tropical fruit,prosecco",3,30.540783740733538
+1742,"beef,whole milk,white bread",3,37.53506445532331
+1743,"tropical fruit,pip fruit",2,16.17003242208442
+1744,"chicken,tropical fruit,yogurt",3,27.405331445209878
+1745,"root vegetables,herbs",2,10.593592495202977
+1746,"meat,rolls/buns",2,16.314026678797802
+1747,"pastry,cake bar",2,15.860852019568632
+1748,"yogurt,bottled water,syrup,specialty bar",4,19.752036035774413
+1749,"whole milk,brown bread,soda",3,24.790073408173484
+1750,"pip fruit,other vegetables,frozen meals",3,16.300020269242943
+1751,"soda,specialty bar",2,10.072826070232107
+1752,"yogurt,soft cheese,rolls/buns,specialty bar",4,22.839280205622966
+1753,"turkey,beef,root vegetables,whole milk",4,32.827649645083845
+1754,"chicken,bottled water",2,7.998274211678506
+1755,"tropical fruit,other vegetables,yogurt",3,24.47323039666773
+1756,"uht-milk,hygiene articles,napkins,cling film/bags",4,30.565123997373792
+1757,"coffee,shopping bags",2,15.658104754318888
+1758,"citrus fruit,other vegetables,canned fish,bottled water",4,20.64769533658517
+1759,"whole milk,yogurt,coffee",3,18.892850709758367
+1760,"whipped/sour cream,rolls/buns",2,12.062754064895358
+1761,"butter milk,salt,vinegar,cat food",4,35.247085533659885
+1762,"frankfurter,butter milk,rolls/buns,coffee",4,24.521461555928045
+1763,"chicken,other vegetables,oil",3,15.546371865869151
+1764,"whole milk,newspapers",2,9.61938181989407
+1765,"bottled water,soda,misc. beverages,flower soil/fertilizer",4,20.246088726246096
+1766,"beverages,rolls/buns",2,16.345435073270636
+1767,"other vegetables,curd,yogurt,shopping bags",4,30.303588187505433
+1768,"packaged fruit/vegetables,frozen fish,napkins",3,23.658090197873346
+1769,"soda,napkins",2,11.890527887896372
+1770,"liver loaf,rolls/buns,soda",3,17.30904574103691
+1771,"meat,butter,pastry,soda",4,32.737323711049086
+1772,"beef,other vegetables,whole milk,yogurt",4,33.51070266285282
+1773,"chicken,whole milk",2,14.430683297336184
+1774,"bottled water,soda",2,11.327068223030082
+1775,"ice cream,brown bread,bottled water,soda",4,26.9661681533243
+1776,"other vegetables,rolls/buns",2,7.156028136095748
+1777,"root vegetables,packaged fruit/vegetables,pastry",3,18.519122168251908
+1778,"rolls/buns,soda",2,13.416923195989472
+1779,"herbs,packaged fruit/vegetables",2,19.292568982604408
+1780,"other vegetables,whole milk",2,11.498582248794033
+1781,"ice cream,frozen dessert",2,20.518907304589504
+1782,"pastry,soda",2,14.994228327633662
+1783,"baking powder,soda,shopping bags",3,32.50216408993489
+1784,"berries,other vegetables",2,14.245051168201059
+1785,"rolls/buns,soda",2,13.416923195989472
+1786,"fish,coffee",2,8.855634130916972
+1787,"tropical fruit,onions",2,17.23754938798818
+1788,"other vegetables,butter milk,cream cheese,rolls/buns",4,26.96578621190607
+1789,"margarine,flower (seeds)",2,20.493974271177123
+1790,"other vegetables,rolls/buns,soda",3,16.125448685330415
+1791,"soda,specialty bar",2,10.072826070232107
+1792,"pip fruit,soft cheese",2,11.693699552628354
+1793,"tropical fruit,margarine",2,24.496898055540935
+1794,"other vegetables,butter milk,rolls/buns,meat spreads",4,31.22666680914759
+1795,"pastry,soda",2,14.994228327633662
+1796,"frankfurter,rolls/buns,soda",3,16.815592131878542
+1797,"domestic eggs,rolls/buns",2,9.476818946794403
+1798,"rolls/buns,canned fish",2,8.242464112634071
+1799,"domestic eggs,soda,hygiene articles",3,22.5256381588152
+1800,"citrus fruit,butter",2,17.663132058941976
+1801,"ice cream,brown bread",2,15.63909993029422
+1802,"pip fruit,whole milk,newspapers",3,11.390305649977535
+1803,"soda,soap",2,18.565398739420093
+1804,"other vegetables,snack products",2,9.473874566079946
+1805,"beef,root vegetables",2,16.5441930499587
+1806,"pastry,canned fish,salty snack,waffles",4,20.810583830962425
+1807,"whipped/sour cream,curd cheese,specialty chocolate,abrasive cleaner",4,27.867936407749553
+1808,"salty snack,newspapers,photo/film",3,13.9026914501957
+1809,"frozen meals,soda",2,20.7899914990532
+1810,"citrus fruit,dessert,seasonal products",3,24.47543001846486
+1811,"domestic eggs,brown bread,fruit/vegetable juice,waffles",4,22.14351466952968
+1812,"salty snack,specialty bar,napkins,newspapers",4,8.288106709630965
+1813,"citrus fruit,specialty bar",2,12.889966228566989
+1814,"ice cream,soda",2,17.577924380043164
+1815,"yogurt,soda",2,16.335016864560497
+1816,"pastry,soda,specialty bar",3,16.0976338486311
+1817,"whipped/sour cream,frozen vegetables",2,16.361998759457514
+1818,"fish,other vegetables,white bread,soda",4,31.89486613165039
+1819,"pot plants,shopping bags",2,27.368423255307405
+1820,"berries,salty snack,nut snack",3,16.776488449637764
+1821,"white bread,semi-finished bread,soda",3,26.131109498990778
+1822,"cream cheese,rolls/buns,soda,chewing gum",4,30.780861164732993
+1823,"berries,soda",2,20.505946228094786
+1824,"ice cream,kitchen towels",2,15.03216916481572
+1825,"frankfurter,rolls/buns,chocolate",3,22.421292936369973
+1826,"fruit/vegetable juice,chocolate",2,17.10217782657713
+1827,"beverages,cream cheese,rolls/buns",3,22.217100810776234
+1828,"tropical fruit,soda",2,23.368529141235623
+1829,"specialty chocolate,newspapers",2,6.112312639266364
+1830,"whole milk,whipped/sour cream,pot plants",3,30.852824313561605
+1831,"grapes,berries,pet care,pot plants",4,33.016653173743904
+1832,"other vegetables,whole milk,curd",3,18.80714151229325
+1833,"root vegetables,other vegetables",2,4.606194440566682
+1834,"rolls/buns,misc. beverages",2,10.840112137635828
+1835,"citrus fruit,coffee",2,14.523758342548991
+1836,"chicken,whole milk",2,14.430683297336184
+1837,"soap,napkins",2,12.517085528847133
+1838,"cereals,pet care,salty snack,shopping bags",4,30.886234988784434
+1839,"tropical fruit,yogurt,rolls/buns,waffles",4,33.76875335123492
+1840,"yogurt,long life bakery product",2,8.710986069817288
+1841,"packaged fruit/vegetables,soda,napkins",3,22.487173326523546
+1842,"cream cheese,rolls/buns",2,10.319168384260404
+1843,"curd,rolls/buns",2,11.756061910254022
+1844,"whole milk,beverages",2,20.687989185968924
+1845,"butter,white bread",2,19.97505494850968
+1846,"cooking chocolate,female sanitary products",2,23.866818380893765
+1847,"zwieback,long life bakery product",2,5.716536869323914
+1848,"cream cheese,specialty chocolate",2,11.154653316330986
+1849,"whole milk,cake bar",2,18.62610100062273
+1850,"domestic eggs,chocolate marshmallow,newspapers",3,19.308897619652438
+1851,"butter milk,coffee",2,16.67528997328417
+1852,"whole milk,dessert,pastry,long life bakery product",4,19.950439853581365
+1853,"beef,citrus fruit,pip fruit",3,28.20400863638597
+1854,"frozen fish,chocolate marshmallow,candy,male cosmetics",4,35.27720905036954
+1855,"whole milk,rolls/buns,pastry",3,19.262367184606894
+1856,"frankfurter,other vegetables,dessert",3,9.897379986467833
+1857,"whole milk,newspapers",2,9.61938181989407
+1858,"rolls/buns,soda",2,13.416923195989472
+1859,"whole milk,ice cream,soda",3,26.367981139496255
+1860,"yogurt,frozen meals,soda",3,28.155587814379032
+1861,"tropical fruit,pip fruit,whole milk",3,24.960089181537512
+1862,"whole milk,pastry,newspapers",3,15.644189598293066
+1863,"pip fruit,frozen meals,soda,shopping bags",4,35.48182244847611
+1864,"berries,newspapers",2,12.365850739301095
+1865,"brown bread,meat spreads,bottled water,fruit/vegetable juice",4,22.04784658087929
+1866,"citrus fruit,hygiene articles,cling film/bags",3,27.580916571152482
+1867,"soda,cake bar,candy",3,25.734970673400603
+1868,"whole milk,soda,seasonal products",3,26.65816105834525
+1869,"whole milk,frozen vegetables",2,17.536804100770052
+1870,"whole milk,spices",2,10.78939979143009
+1871,"specialty cheese,soda",2,16.63228742828019
+1872,"canned vegetables,bottled water",2,3.7829978873059575
+1873,"spread cheese,misc. beverages",2,15.413455787457846
+1874,"other vegetables,domestic eggs,napkins,dishes",4,23.232782970880887
+1875,"misc. beverages,specialty chocolate,candy",3,18.605102952702712
+1876,"beef,root vegetables,hygiene articles",3,25.07109435949964
+1877,"yogurt,seasonal products",2,16.26428006498332
+1878,"tropical fruit,seasonal products",2,23.29779234165845
+1879,"other vegetables,sweet spreads,long life bakery product,detergent",4,28.18045988319236
+1880,"curd,salty snack",2,10.742828053030054
+1881,"cat food,female sanitary products",2,25.068419114122854
+1882,"frankfurter,tropical fruit",2,17.797777527890027
+1883,"tropical fruit,long life bakery product",2,15.744498346492414
+1884,"bottled water,specialty chocolate",2,7.640635252620802
+1885,"bottled water,male cosmetics",2,7.114757161412327
+1886,"curd,specialty cheese,flour,long life bakery product",4,20.997573404024738
+1887,"whole milk,cream cheese,specialty chocolate,candy",4,26.87421595878038
+1888,"pastry,ketchup,chocolate,napkins",4,27.132514226669972
+1889,"whipped/sour cream,candy",2,14.544757301136855
+1890,"brown bread,pastry,bottled water",3,15.413051551680134
+1891,"chocolate,pot plants,shopping bags",3,41.9435446090335
+1892,"frankfurter,yogurt,margarine,bottled water",4,23.219702388550296
+1893,"finished products,pet care,soda",3,26.010429025582503
+1894,"detergent,softener,shopping bags",3,24.857652698764237
+1895,"citrus fruit,whole milk,pot plants",3,35.0241336029906
+1896,"frankfurter,margarine,newspapers,shopping bags",4,27.24669057920947
+1897,"curd,whipped/sour cream,newspapers",3,15.753135742080746
+1898,"other vegetables,whole milk,white bread",3,25.597065845931287
+1899,"frankfurter,whole milk,bottled water",3,14.546373369137578
+1900,"bottled water,soda,pot plants",3,25.77458435899804
+1901,"frankfurter,onions,whole milk",3,15.027166491329389
+1902,"condensed milk,rolls/buns,sugar,cat food",4,30.325962506447688
+1903,"soda,long life bakery product,shopping bags",3,23.23571742306557
+1904,"beef,rolls/buns,dog food,soda",4,38.717291273755045
+1905,"butter,frozen vegetables,margarine,cake bar",4,34.557152397399
+1906,"berries,beverages",2,23.434458105375946
+1907,"whole milk,bottled water,pot plants",3,25.59522056921647
+1908,"frankfurter,root vegetables,whole milk,margarine",4,24.184184110107882
+1909,"coffee,bottled water,cling film/bags",3,12.362299862816855
+1910,"bottled water,soda",2,11.327068223030082
+1911,"whole milk,rolls/buns,brown bread,margarine",4,30.365944969233603
+1912,"canned vegetables,newspapers",2,2.254675273951519
+1913,"other vegetables,frozen potato products,oil,shopping bags",4,29.980931192631434
+1914,"meat,whole milk,domestic eggs,bottled water",4,28.0435447653311
+1915,"chicken,rolls/buns",2,10.088129184637896
+1916,"whole milk,whipped/sour cream",2,16.405308177593646
+1917,"other vegetables,packaged fruit/vegetables,whole milk,white bread",4,36.19371128455846
+1918,"whole milk,pot plants",2,23.237572895421053
+1919,"whole milk,rolls/buns,pot plants,shopping bags",4,40.605982661515306
+1920,"whole milk,yogurt,coffee",3,18.892850709758367
+1921,"whipped/sour cream,specialty fat,waffles,specialty chocolate",4,23.050385532676945
+1922,"long life bakery product,newspapers",2,2.1747148149324342
+1923,"root vegetables,margarine,bottled water,soda",4,23.3225266377958
+1924,"rolls/buns,roll products,cat food,shopping bags",4,36.884803541071626
+1925,"root vegetables,other vegetables,butter",3,10.48276579193911
+1926,"citrus fruit,onions,yogurt,rolls/buns",4,26.43810046563741
+1927,"chicken,whole milk,salty snack,long life bakery product",4,19.21034184135848
+1928,"other vegetables,butter milk,frozen fish,oil",4,33.984175086875254
+1929,"frankfurter,bottled water,soda,newspapers",4,15.555062219360128
+1930,"butter milk,cream cheese,bottled water",3,22.16740574960574
+1931,"onions,pastry,pot plants",3,23.31076471035418
+1932,"berries,yogurt,domestic eggs,newspapers",4,24.76076335466652
+1933,"ice cream,cereals,chewing gum",3,29.759909849316358
+1934,"whipped/sour cream,ice cream,pot plants",3,30.67127138491701
+1935,"beef,soda,detergent,flower (seeds)",4,44.22443237850117
+1936,"root vegetables,domestic eggs",2,6.926985251265336
+1937,"whole milk,dessert",2,12.580242320690912
+1938,"yogurt,soft cheese",2,17.28837203787072
+1939,"citrus fruit,pip fruit,other vegetables",3,16.266010026993953
+1940,"frankfurter,meat,white bread,newspapers",4,30.193001625510295
+1941,"bottled water,flower (seeds)",2,12.75383248143256
+1942,"finished products,dessert,pastry,shopping bags",4,34.90498364267989
+1943,"dessert,misc. beverages,fruit/vegetable juice",3,12.709851524969874
+1944,"curd,whipped/sour cream,bottled water",3,17.281458355435184
+1945,"whipped/sour cream,newspapers",2,8.44457647858153
+1946,"specialty cheese,soap",2,17.25884506923095
+1947,"misc. beverages,chocolate,shopping bags",3,33.888637963946564
+1948,"soda,chewing gum",2,20.46169278047259
+1949,"citrus fruit,semi-finished bread,newspapers",3,15.679091120629383
+1950,"pip fruit,misc. beverages",2,8.163533320964486
+1951,"whole milk,processed cheese,pastry,soda",4,34.430038527342624
+1952,"beef,other vegetables,packaged fruit/vegetables,dog food",4,38.60553900573369
+1953,"ice cream,dishes",2,21.18233767364714
+1954,"beef,ice cream",2,23.255027929541455
+1955,"berries,yogurt,whipped/sour cream",3,26.5173734123265
+1956,"bottled water,soda",2,11.327068223030082
+1957,"dessert,rolls/buns,waffles",3,15.79423400514595
+1958,"white bread,soda,shopping bags",3,35.98881126571136
+1959,"citrus fruit,pip fruit,other vegetables,rolls/buns",4,20.71351267374876
+1960,"citrus fruit,butter,frozen vegetables,baking powder",4,37.02171582161971
+1961,"frozen potato products,seasonal products",2,16.05296249496342
+1962,"curd,beverages,pastry,pot plants",4,39.678815604382
+1963,"whipped/sour cream,uht-milk,domestic eggs",3,24.4942285133093
+1964,"whole milk,soda,specialty bar,newspapers",4,19.692207890126177
+1965,"oil,candy",2,14.126725721641419
+1966,"beef,whipped/sour cream,roll products",3,29.27751729795845
+1967,"canned vegetables,female sanitary products,shopping bags",3,26.9140244530804
+1968,"dessert,bottled water,fruit/vegetable juice",3,8.674889707884267
+1969,"chewing gum,specialty bar",2,12.595677752235362
+1970,"onions,whole milk,curd,soda",4,27.9064773681742
+1971,"soda,misc. beverages,specialty bar",3,16.46543556111313
+1972,"citrus fruit,tropical fruit,pip fruit,shopping bags",4,40.877500248993414
+1973,"coffee,seasonal products,shopping bags",3,24.556788503976378
+1974,"chicken,curd",2,12.949185801382306
+1975,"dessert,flower soil/fertilizer,flower (seeds)",3,16.712781381209957
+1976,"condensed milk,pastry,chocolate",3,31.004138954140686
+1977,"brown bread,soda",2,16.00001664872039
+1978,"whole milk,frozen vegetables,bottled water",3,19.894451774565468
+1979,"whole milk,yogurt,frozen vegetables",3,24.902400416095883
+1980,"pastry,chocolate,specialty bar",3,21.703334653122532
+1981,"whole milk,dessert,yogurt,white bread",4,34.04432223315399
+1982,"frankfurter,grapes",2,5.559355002160686
+1983,"citrus fruit,oil,misc. beverages",3,25.37639003709569
+1984,"yogurt,bottled water,soda,newspapers",4,19.52198959879689
+1985,"yogurt,waffles,hygiene articles",3,23.449043422020097
+1986,"butter milk,white bread,pet care,newspapers",4,33.73782628852717
+1987,"frozen dessert,softener",2,13.634846130309398
+1988,"hard cheese,pastry,popcorn,pot plants",4,30.01430448418985
+1989,"onions,white bread,hygiene articles",3,25.463825702665417
+1990,"yogurt,frozen meals,soda",3,28.155587814379032
+1991,"bottled water,soda,chocolate,shopping bags",4,38.823096696095625
+1992,"yogurt,margarine,bottled water,chewing gum",4,31.313305683899145
+1993,"sweet spreads,waffles",2,21.470787513616884
+1994,"tropical fruit,yogurt,spread cheese,brown bread",4,37.816147303389336
+1995,"whole milk,brown bread,newspapers",3,16.649977919379793
+1996,"citrus fruit,soda",2,20.755981256804212
+1997,"yogurt,soda,fruit/vegetable juice",3,18.86207333741153
+1998,"whipped/sour cream,napkins",2,10.53635875680226
+1999,"other vegetables,brown bread",2,9.739121588826666
+2000,"packaged fruit/vegetables,whole milk,soda",3,28.35612274731493
+2001,"tropical fruit,butter,whipped/sour cream,rolls/buns",4,32.33843400826874
+2002,"whole milk,ice cream",2,17.39856059026159
+2003,"chewing gum,hygiene articles",2,20.01917354077886
+2004,"tropical fruit,whole milk,long life bakery product,chocolate",4,39.109676459671604
+2005,"whole milk,coffee",2,11.527254394432536
+2006,"sweet spreads,hygiene articles,house keeping products",3,32.14455866601307
+2007,"packaged fruit/vegetables,fruit/vegetable juice,salty snack",3,16.557970701009044
+2008,"other vegetables,whole milk",2,11.498582248794033
+2009,"citrus fruit,condensed milk,flour",3,26.87152803657368
+2010,"bottled water,soda",2,11.327068223030082
+2011,"white bread,flour,fruit/vegetable juice,hygiene articles",4,29.833198886517764
+2012,"uht-milk,bottled water",2,14.207308468924566
+2013,"nuts/prunes,canned fish,soda,shopping bags",4,36.659499718101905
+2014,"oil,pickled vegetables,hygiene articles",3,21.47040400121022
+2015,"berries,yogurt",2,18.902121994185947
+2016,"citrus fruit,rolls/buns,chewing gum,shopping bags",4,40.64724270490172
+2017,"frankfurter,pastry,soda",3,18.392897263522734
+2018,"whole milk,sliced cheese,rolls/buns,shopping bags",4,37.09067938683593
+2019,"beef,onions,other vegetables,rolls/buns",4,24.640993030815935
+2020,"pip fruit,dish cleaner,napkins",3,11.530733992393968
+2021,"domestic eggs,candy",2,11.958822183035897
+2022,"whole milk,butter,sugar,coffee",4,20.377423789589812
+2023,"frankfurter,hygiene articles",2,11.92557024543001
+2024,"curd,yogurt,bathroom cleaner",3,16.539727123195963
+2025,"frankfurter,coffee",2,6.135866570868513
+2026,"pip fruit,curd,margarine,baking powder",4,29.789108978483434
+2027,"yogurt,light bulbs",2,20.23994087771424
+2028,"rolls/buns,bottled water",2,6.805150320550221
+2029,"pastry,soda",2,14.994228327633662
+2030,"other vegetables,whole milk,rolls/buns,flour",4,20.62684240253738
+2031,"meat,root vegetables,pastry",3,19.789000761667733
+2032,"bottled water,soda,salty snack",3,14.76133701256092
+2033,"meat,root vegetables,hard cheese,brown bread",4,28.12568407182988
+2034,"chicken,other vegetables,whipped/sour cream,pickled vegetables",4,21.710686298388747
+2035,"whole milk,whipped/sour cream",2,16.405308177593646
+2036,"citrus fruit,onions,soups",3,21.154208835030612
+2037,"pip fruit,grapes,whole milk,rolls/buns",4,17.169169302562977
+2038,"frankfurter,beef,whole milk,chocolate marshmallow",4,40.28550605324699
+2039,"butter,sliced cheese,brown bread",3,23.839380312146737
+2040,"root vegetables,frozen vegetables",2,10.644416292542699
+2041,"tropical fruit,other vegetables,whole milk,margarine",4,35.99548030433497
+2042,"root vegetables,whole milk,beverages,salt",4,29.69441433978202
+2043,"yogurt,canned fish",2,11.160557781205096
+2044,"zwieback,dishes",2,16.9449809576711
+2045,"frankfurter,rolls/buns",2,7.846171582643876
+2046,"whole milk,rolls/buns,bottled water",3,15.595207080003313
+2047,"whole milk,oil,candles",3,28.417319990525243
+2048,"coffee,female sanitary products,napkins",3,18.226072093871565
+2049,"frankfurter,rolls/buns",2,7.846171582643876
+2050,"soda,salty snack",2,12.403689338765506
+2051,"liver loaf,pip fruit,grapes,other vegetables",4,10.532257930743462
+2052,"butter milk,instant coffee",2,18.8453687602126
+2053,"bottled water,specialty chocolate",2,7.640635252620802
+2054,"whole milk,artif. sweetener",2,15.65379413585785
+2055,"chicken,whole milk",2,14.430683297336184
+2056,"chicken,ice cream",2,14.249130368691588
+2057,"rolls/buns,newspapers",2,5.276827707195784
+2058,"curd,instant food products,specialty bar",3,9.358823385731778
+2059,"herbs,other vegetables,hygiene articles,napkins",4,22.852457681520825
+2060,"grapes,berries",2,13.697211745131732
+2061,"yogurt,spread cheese,pastry,shopping bags",4,35.33215750964109
+2062,"grapes,berries,soda",3,22.666632294366398
+2063,"grapes,other vegetables,frozen dessert",3,16.77961502939356
+2064,"citrus fruit,semi-finished bread",2,14.849766060188408
+2065,"rolls/buns,brown bread",2,11.47809874624053
+2066,"rolls/buns,snack products",2,11.21285172349381
+2067,"cream cheese,coffee,bottled water",3,10.966511046280457
+2068,"long life bakery product,waffles,newspapers",3,9.731260612085759
+2069,"other vegetables,butter milk,yogurt",3,24.012214142971498
+2070,"berries,yogurt,cat food,chocolate",4,45.977895341804484
+2071,"citrus fruit,pickled vegetables,meat spreads,specialty chocolate",4,32.948377474166215
+2072,"beef,whole milk",2,23.436580858186055
+2073,"tropical fruit,pickled vegetables,fruit/vegetable juice",3,22.672447917876152
+2074,"citrus fruit,butter,sliced cheese,domestic eggs",4,33.624661220270156
+2075,"soda,chocolate",2,23.544541902960763
+2076,"root vegetables,whole milk",2,10.687725710678832
+2077,"whole milk,mustard",2,21.093352337110595
+2078,"whole milk,rolls/buns",2,13.237559406207899
+2079,"ice cream,rolls/buns",2,13.056006477563303
+2080,"ice cream,chocolate",2,23.18362518453459
+2081,"tropical fruit,whole milk,bottled water,soda",4,34.51623357448413
+2082,"long life bakery product,newspapers",2,2.1747148149324342
+2083,"whole milk,rolls/buns,nut snack",3,15.043253387454705
+2084,"rolls/buns,instant food products",2,5.394361247989927
+2085,"condensed milk,coffee",2,13.141407456995035
+2086,"whole milk,pickled vegetables",2,14.536339612477253
+2087,"white bread,coffee,seasonal products",3,25.734364981774185
+2088,"whole milk,house keeping products",2,18.49347239946166
+2089,"dessert,uht-milk,newspapers,shopping bags",4,29.390078536147392
+2090,"whole milk,soda,soap",3,27.355455498873184
+2091,"pastry,specialty chocolate,female sanitary products",3,23.8755624774548
+2092,"other vegetables,whole milk,processed cheese,soda",4,31.11375623828457
+2093,"other vegetables,yogurt,specialty cheese,bottled water",4,20.09463635750771
+2094,"finished products,rolls/buns",2,16.616585830458433
+2095,"berries,other vegetables,yogurt",3,21.61064748352689
+2096,"whole milk,specialty chocolate,light bulbs",3,26.947388900666887
+2097,"beverages,specialty bar",2,13.00133794751327
+2098,"pastry,waffles,shopping bags",3,26.502260694891767
+2099,"citrus fruit,yogurt",2,19.152157022895377
+2100,"salty snack,specialty chocolate",2,8.717256368356226
+2101,"citrus fruit,tropical fruit,pastry,seasonal products",4,41.109160827626994
+2102,"pip fruit,rolls/buns",2,6.218426476838271
+2103,"whole milk,brown bread,fruit/vegetable juice",3,18.34770933178985
+2104,"beef,whole milk,yogurt,soft cheese",4,40.72495289605677
+2105,"tropical fruit,frozen dessert",2,26.309512065781963
+2106,"frankfurter,coffee",2,6.135866570868513
+2107,"curd,ice cream,pasta,cat food",4,35.386981084023596
+2108,"yogurt,newspapers",2,8.194921375766807
+2109,"sliced cheese,domestic eggs,coffee,shopping bags",4,31.619633915647068
+2110,"chicken,whole milk",2,14.430683297336184
+2111,"fish,whole milk,white bread,detergent",4,39.219279775424276
+2112,"detergent,hygiene articles,napkins",3,21.660311571099047
+2113,"rolls/buns,margarine,canned fish",3,18.34025357617405
+2114,"coffee,fruit/vegetable juice",2,5.264254107830476
+2115,"frankfurter,whole milk",2,12.188725695342162
+2116,"dessert,beverages",2,15.68811798775365
+2117,"salty snack,specialty chocolate",2,8.717256368356226
+2118,"frankfurter,cream cheese,white bread",3,23.36881827053192
+2119,"soups,male cosmetics",2,11.286316819090752
+2120,"soda,syrup",2,17.894807074890394
+2121,"root vegetables,yogurt,beverages",3,21.1611976930674
+2122,"whole milk,curd,cream cheese,shopping bags",4,34.891188879797355
+2123,"soda,specialty bar",2,10.072826070232107
+2124,"whipped/sour cream,newspapers",2,8.44457647858153
+2125,"tropical fruit,whole milk,cream cheese,brown bread",4,36.09142718844537
+2126,"meat,brown bread,seasonal products,shopping bags",4,40.716711000525656
+2127,"yogurt,specialty bar",2,8.46900183632327
+2128,"organic products,softener,hygiene articles",3,18.0164932050681
+2129,"frozen meals,frozen potato products,coffee",3,21.712047330103907
+2130,"frankfurter,whole milk,frozen vegetables",3,20.935473036659122
+2131,"grapes,brown bread",2,9.19128216575734
+2132,"grapes,sugar,cling film/bags",3,12.40173866409846
+2133,"rolls/buns,napkins,shopping bags",3,20.28951710475596
+2134,"rolls/buns,bottled water",2,6.805150320550221
+2135,"curd,yogurt,newspapers",3,15.503480639266023
+2136,"soft cheese,coffee,candy",3,19.589479240520635
+2137,"root vegetables,margarine,candles",3,24.425501807192752
+2138,"beef,root vegetables,whole milk,condensed milk",4,35.73845963142738
+2139,"tropical fruit,whole milk,rolls/buns",3,27.636667998208857
+2140,"tropical fruit,butter milk,brown bread,flour",4,40.048554536779946
+2141,"sugar,specialty bar",2,4.07700356478229
+2142,"finished products,whole milk,softener",3,22.68358259968511
+2143,"uht-milk,soda",2,20.819081344363816
+2144,"other vegetables,whole milk,domestic eggs,dishes",4,29.10173239167227
+2145,"whole milk,butter,fruit/vegetable juice,candy",4,24.123190466672856
+2146,"chicken,whole milk,rolls/buns",3,18.87818594409099
+2147,"pip fruit,pastry",2,7.795731608482461
+2148,"rolls/buns,newspapers",2,5.276827707195784
+2149,"whole milk,whipped/sour cream",2,16.405308177593646
+2150,"root vegetables,whole milk,whipped/sour cream,soda",4,27.272397678054052
+2151,"uht-milk,domestic eggs,oil,margarine",4,34.17398639735384
+2152,"citrus fruit,other vegetables,uht-milk,rolls/buns",4,30.792249638794445
+2153,"root vegetables,margarine,pet care",3,16.867383707409928
+2154,"tropical fruit,rolls/buns,newspapers",3,19.67593629919674
+2155,"beef,whole milk,rolls/buns,coffee",4,30.621281139920303
+2156,"frankfurter,domestic eggs,mustard,seasonal products",4,29.62996456324366
+2157,"beef,tropical fruit,margarine,bottled water",4,41.50106982806931
+2158,"pastry,soda",2,14.994228327633662
+2159,"other vegetables,soda,shopping bags",3,24.598853157915052
+2160,"frankfurter,rolls/buns,pastry",3,13.870979361042872
+2161,"grapes,pasta,dishes",3,21.703785904933703
+2162,"finished products,other vegetables,long life bakery product",3,16.222998427536027
+2163,"beef,soda,newspapers",3,24.445269708408603
+2164,"pip fruit,butter,yogurt",3,15.013091496781723
+2165,"rolls/buns,shopping bags",2,17.368409766094253
+2166,"chicken,spread cheese,frozen meals,domestic eggs",4,31.511360084318046
+2167,"root vegetables,domestic eggs,white bread",3,21.025468848402586
+2168,"cream cheese,rolls/buns,brown bread",3,17.349764483746128
+2169,"citrus fruit,yogurt,rolls/buns,pastry",4,29.62446744804918
+2170,"other vegetables,rolls/buns",2,7.156028136095748
+2171,"processed cheese,rolls/buns,specialty chocolate",3,20.37624366583606
+2172,"chicken,other vegetables,chewing gum,shopping bags",4,32.7623313778014
+2173,"cream cheese,processed cheese,specialty bar",3,17.62082469875891
+2174,"other vegetables,whole milk,chocolate",3,26.07370360252013
+2175,"citrus fruit,other vegetables,whole milk,soda",4,32.25456350559825
+2176,"whole milk,cream cheese,chewing gum",3,26.15399472819661
+2177,"curd,fruit/vegetable juice,specialty chocolate",3,15.118603315175635
+2178,"beef,whole milk,sliced cheese",3,34.36879371947464
+2179,"yogurt,rolls/buns",2,11.813098962080637
+2180,"finished products,butter,curd,soda",4,34.323634347809936
+2181,"tropical fruit,whole milk,pickled vegetables,soda",4,37.904868753712876
+2182,"turkey,seasonal products",2,16.392083585329544
+2183,"rolls/buns,brown bread,specialty bar",3,12.581504267237971
+2184,"other vegetables,whole milk,brown bread,margarine",4,28.626967811819735
+2185,"yogurt,domestic eggs,rolls/buns",3,16.842415262120234
+2186,"berries,yogurt,shopping bags",3,31.823029113525394
+2187,"uht-milk,rolls/buns",2,16.297163441883956
+2188,"other vegetables,butter,bottled water,detergent",4,21.155047437405187
+2189,"onions,brown bread",2,9.869036895472949
+2190,"beef,citrus fruit,other vegetables",3,29.14161029564345
+2191,"chicken,grapes",2,7.801312604154706
+2192,"chicken,root vegetables",2,7.538295489108831
+2193,"beef,instant coffee",2,19.553800520640838
+2194,"citrus fruit,root vegetables,rolls/buns",3,18.131732305550095
+2195,"citrus fruit,tropical fruit,dessert,fruit/vegetable juice",4,32.502911333659355
+2196,"citrus fruit,yogurt,soda",3,28.121577572130043
+2197,"cat food,soda,candy",3,28.39957842612341
+2198,"rolls/buns,pastry,candy",3,17.401816308150103
+2199,"cake bar,specialty chocolate",2,15.119031819995023
+2200,"yogurt,long life bakery product",2,8.710986069817288
+2201,"frozen meals,specialty bar",2,12.923976470815976
+2202,"root vegetables,other vegetables,canned fish,shopping bags",4,21.32206302578539
+2203,"cream cheese,brown bread",2,12.902261836991322
+2204,"brown bread,hair spray",2,17.22243904544756
+2205,"turkey,roll products,dishes",3,27.08297545959563
+2206,"other vegetables,whole milk,cake bar,detergent",4,31.54692941286007
+2207,"dog food,pet care,shopping bags",3,28.446676391016265
+2208,"pip fruit,yogurt,brown bread",3,16.16711624489502
+2209,"tropical fruit,curd,yogurt,whipped/sour cream",4,36.68851558896655
+2210,"frankfurter,frozen potato products,rolls/buns,specialty fat",4,17.596051066507485
+2211,"root vegetables,sliced cheese",2,12.829881812514323
+2212,"condensed milk,coffee,shopping bags",3,26.06231457633448
+2213,"citrus fruit,other vegetables,beverages,snack products",4,33.15836770016532
+2214,"other vegetables,ice cream",2,11.317029320149437
+2215,"rolls/buns,dishes",2,17.02133648959345
+2216,"honey,flower (seeds)",2,21.988668240169517
+2217,"whole milk,pasta,long life bakery product,chocolate",4,31.679833863494093
+2218,"other vegetables,whole milk,soda",3,20.4680027980287
+2219,"yogurt,napkins",2,10.286703653987537
+2220,"tropical fruit,pip fruit,grapes",3,18.330718488356037
+2221,"grapes,hard cheese",2,9.491581055347037
+2222,"turkey,frozen potato products,soda",3,23.61709913021265
+2223,"whole milk,cake bar",2,18.62610100062273
+2224,"yogurt,specialty chocolate",2,12.648583894151217
+2225,"curd,seasonal products,female sanitary products",3,28.775010133387124
+2226,"tropical fruit,whole milk,salty snack,kitchen towels",4,33.047099474992116
+2227,"grapes,brown bread",2,9.19128216575734
+2228,"berries,whole milk",2,20.32658243831321
+2229,"whole milk,ice cream,soda",3,26.367981139496255
+2230,"beef,soft cheese,chewing gum",3,36.06157205251577
+2231,"other vegetables,butter",2,8.58509684071337
+2232,"bottled water,long life bakery product",2,3.7030374282868723
+2233,"berries,frozen vegetables,frozen meals",3,32.10384396999561
+2234,"frankfurter,other vegetables",2,6.107194425230013
+2235,"frozen meals,soda,napkins",3,23.711098837714907
+2236,"whole milk,brown bread,flower (seeds)",3,26.216837666575962
+2237,"bottled water,soda",2,11.327068223030082
+2238,"curd,whipped/sour cream",2,14.923810681639768
+2239,"frankfurter,rolls/buns,ketchup,soda",4,20.427069887761718
+2240,"pip fruit,bottled water,candy",3,11.058077386875182
+2241,"soda,specialty chocolate,male cosmetics,shopping bags",4,31.93042473501641
+2242,"whole milk,rolls/buns",2,13.237559406207899
+2243,"pip fruit,uht-milk,curd cheese,coffee",4,19.6051169669142
+2244,"yogurt,soda",2,16.335016864560497
+2245,"rolls/buns,soda",2,13.416923195989472
+2246,"domestic eggs,pastry,margarine,cooking chocolate",4,32.45096480264192
+2247,"butter milk,brown bread,pastry",3,26.993496216189445
+2248,"whole milk,curd,semi-finished bread",3,19.16182137557117
+2249,"citrus fruit,whole milk,domestic eggs",3,25.605933767062236
+2250,"uht-milk,sugar,soda",3,23.792679388148663
+2251,"salt,detergent",2,17.32105912548376
+2252,"other vegetables,whole milk,frozen vegetables",3,20.245329590110995
+2253,"curd,rolls/buns,pastry",3,17.780869688653016
+2254,"soda,fruit/vegetable juice,long life bakery product",3,12.841866776577156
+2255,"ice cream,brown bread,pastry,napkins",4,24.585015047354922
+2256,"berries,yogurt,domestic eggs,rolls/buns",4,28.37894094098035
+2257,"beef,white bread",2,28.745007695870214
+2258,"whole milk,rolls/buns,white bread,soap",4,36.932021193530574
+2259,"citrus fruit,whole milk,snack products",3,27.341966543761643
+2260,"frankfurter,tropical fruit,whole milk",3,26.58783428734312
+2261,"beef,margarine",2,24.74431356227294
+2262,"whole milk,specialty bar",2,9.893462280450533
+2263,"whole milk,pastry,cocoa drinks,newspapers",4,16.77934420220788
+2264,"pip fruit,coffee",2,4.508121465062908
+2265,"root vegetables,whole milk,curd,yogurt",4,25.361881289503877
+2266,"root vegetables,yogurt,brown bread,shopping bags",4,29.214768485376737
+2267,"chicken,pastry",2,11.665434316282088
+2268,"whole milk,dessert",2,12.580242320690912
+2269,"yogurt,syrup,chewing gum,newspapers",4,28.612580132660455
+2270,"pet care,soda,chocolate,candy",4,35.345973078601276
+2271,"beef,berries,yogurt,whipped/sour cream",4,41.16389751105946
+2272,"yogurt,frozen vegetables,shopping bags",3,29.033250775982236
+2273,"hard cheese,frozen meals",2,19.151465938893956
+2274,"beef,root vegetables,bottled water",3,18.901840723754116
+2275,"beverages,domestic eggs,misc. beverages",3,23.319858217436447
+2276,"citrus fruit,grapes",2,13.947246773841162
+2277,"pastry,soda,chocolate",3,29.56934968135976
+2278,"citrus fruit,yogurt,newspapers",3,19.981482083336356
+2279,"nuts/prunes,soda,chocolate",3,34.518752486609294
+2280,"pastry,soda,specialty bar",3,16.0976338486311
+2281,"root vegetables,spices,kitchen towels",3,10.320677317209963
+2282,"curd cheese,frozen meals",2,15.067905656540677
+2283,"butter milk,sliced cheese",2,24.87030519959331
+2284,"sliced cheese,rolls/buns,specialty chocolate",3,20.662703086868778
+2285,"fruit/vegetable juice,chocolate",2,17.10217782657713
+2286,"pip fruit,butter milk,cream cheese,rolls/buns",4,26.028184552648597
+2287,"pip fruit,butter,rolls/buns,chocolate",4,26.670119181936794
+2288,"rolls/buns,brown bread",2,11.47809874624053
+2289,"soda,specialty chocolate",2,14.252408128060054
+2290,"packaged fruit/vegetables,canned fish",2,14.391606904506437
+2291,"berries,soda,waffles",3,28.06249202524811
+2292,"tropical fruit,soda",2,23.368529141235623
+2293,"grapes,salty snack",2,5.594954855802454
+2294,"margarine,long life bakery product",2,11.443179218031435
+2295,"beef,frozen meals,dog food",3,37.12093902758411
+2296,"butter,pastry,long life bakery product,shopping bags",4,26.167676003602327
+2297,"rolls/buns,bottled water,specialty chocolate",3,12.088137899375608
+2298,"brown bread,salty snack",2,10.464864889016564
+2299,"butter milk,specialty bar,napkins",3,17.962605197963875
+2300,"tropical fruit,pastry,soda,chocolate",4,43.96845827336072
+2301,"tropical fruit,ketchup,shopping bags",3,30.931493467223575
+2302,"beef,root vegetables,waffles,newspapers",4,24.930063907553002
+2303,"chewing gum,seasonal products",2,20.390955980895413
+2304,"tropical fruit,rolls/buns",2,18.846611238755763
+2305,"whole milk,cocoa drinks,shopping bags",3,22.846118482707354
+2306,"rolls/buns,margarine",2,14.545292110294785
+2307,"yogurt,dish cleaner,candles",3,26.63434253140166
+2308,"pastry,chocolate,chocolate marshmallow",3,34.05018539129696
+2309,"beverages,rolls/buns,fruit/vegetable juice",3,18.87249154612167
+2310,"tropical fruit,whole milk",2,23.18916535145405
+2311,"ice cream,specialty bar",2,9.711909351805938
+2312,"packaged fruit/vegetables,whipped/sour cream",2,18.211896856767726
+2313,"yogurt,rolls/buns,specialty bar",3,12.916504483078077
+2314,"tropical fruit,pastry,fruit/vegetable juice",3,22.950972843250987
+2315,"citrus fruit,pastry",2,17.811368485968543
+2316,"whole milk,pastry,semi-finished bread",3,17.878069890470947
+2317,"whole milk,specialty chocolate",2,14.073044338278478
+2318,"other vegetables,condensed milk,soda,newspapers",4,22.911480921032176
+2319,"whole milk,coffee,chocolate,shopping bags",4,39.023282867498075
+2320,"male cosmetics,napkins",2,7.678216826278619
+2321,"whole milk,ice cream,prosecco",3,21.75367503142462
+2322,"citrus fruit,prosecco,specialty bar,shopping bags",4,30.165987789069465
+2323,"berries,yogurt,specialty cheese",3,26.56498887323147
+2324,"whole milk,yogurt,roll products",3,23.17139485586386
+2325,"meat,frozen vegetables,soda",3,29.58269192259462
+2326,"grapes,chocolate",2,16.735807419997712
+2327,"whole milk,domestic eggs",2,13.819373059492687
+2328,"tropical fruit,pip fruit",2,16.17003242208442
+2329,"whole milk,butter milk,cream cheese,fruit/vegetable juice",4,31.12687130811445
+2330,"chicken,butter",2,11.51719788925552
+2331,"other vegetables,roll products",2,9.724267270425877
+2332,"citrus fruit,hard cheese",2,19.117455696644967
+2333,"candy,hygiene articles",2,15.456407192537242
+2334,"grapes,rolls/buns,long life bakery product,candy",4,14.88308435051418
+2335,"white bread,specialty bar",2,15.201889118134693
+2336,"beverages,rolls/buns,bottled water",3,18.703082747066052
+2337,"soda,specialty chocolate,shopping bags",3,27.173315247399497
+2338,"tropical fruit,waffles,newspapers",3,22.78497944959526
+2339,"rolls/buns,soda",2,13.416923195989472
+2340,"other vegetables,frozen meals,soda",3,23.498516988394144
+2341,"root vegetables,yogurt,uht-milk,rolls/buns",4,25.560428708435527
+2342,"whole milk,napkins",2,11.7111640981148
+2343,"artif. sweetener,coffee",2,9.600935011384202
+2344,"coffee,syrup",2,11.66258416063517
+2345,"onions,fruit/vegetable juice",2,5.365497268838259
+2346,"beef,other vegetables,whole milk,ice cream",4,34.75361017833549
+2347,"chewing gum,napkins",2,14.413379569899629
+2348,"rolls/buns,dishes",2,17.02133648959345
+2349,"whole milk,frozen vegetables",2,17.536804100770052
+2350,"uht-milk,specialty bar",2,12.953066316126591
+2351,"beverages,cream cheese",2,17.769598164021428
+2352,"root vegetables,whole milk,long life bakery product,cling film/bags",4,19.300570019212284
+2353,"tropical fruit,yogurt,bottled water,specialty chocolate",4,29.40534015994759
+2354,"onions,whipped/sour cream,newspapers",3,11.283017274568756
+2355,"whole milk,soda,fruit/vegetable juice,shopping bags",4,33.20744090087824
+2356,"meat,whole milk,domestic eggs,pastry",4,31.71070486993468
+2357,"other vegetables,condensed milk,soda,misc. beverages",4,28.47476535147222
+2358,"whole milk,brown bread,salt,sugar",4,25.903007105311026
+2359,"whole milk,butter",2,14.66662811082552
+2360,"herbs,butter,chocolate",3,29.14761624907576
+2361,"rolls/buns,soda,female sanitary products",3,25.98469031621989
+2362,"root vegetables,yogurt,soda,popcorn",4,20.44377139653371
+2363,"yogurt,flour,sugar,baking powder",4,25.631788287459994
+2364,"pip fruit,processed cheese,bottled water",3,14.774324944134747
+2365,"tropical fruit,pip fruit,frozen meals,softener",4,29.71504602843135
+2366,"chicken,root vegetables,whole milk",3,16.328352248561924
+2367,"whole milk,yogurt,bottled water",3,18.513300748574338
+2368,"pip fruit,newspapers",2,2.6002488905244414
+2369,"beef,citrus fruit,curd,butter milk",4,47.67973640810645
+2370,"whole milk,butter",2,14.66662811082552
+2371,"citrus fruit,rolls/buns",2,16.234063354324356
+2372,"pastry,soda",2,14.994228327633662
+2373,"whole milk,rolls/buns,pastry",3,19.262367184606894
+2374,"beverages,cream cheese",2,17.769598164021428
+2375,"citrus fruit,yogurt,newspapers",3,19.981482083336356
+2376,"berries,yogurt,whipped/sour cream,sugar",4,29.49097145611135
+2377,"rolls/buns,soda",2,13.416923195989472
+2378,"beverages,processed cheese,coffee",3,25.28088350175114
+2379,"curd cheese,rolls/buns",2,7.694837353476949
+2380,"grapes,uht-milk",2,14.010346861400766
+2381,"pip fruit,other vegetables,margarine,photo/film",4,24.216336383188267
+2382,"rolls/buns,bottled water",2,6.805150320550221
+2383,"pip fruit,rolls/buns,soda,skin care",4,26.686380208683484
+2384,"whole milk,pastry",2,14.814864537852088
+2385,"domestic eggs,rolls/buns,flour",3,14.15757645378294
+2386,"dessert,specialty bar,newspapers",3,5.722916142676238
+2387,"frankfurter,rolls/buns",2,7.846171582643876
+2388,"citrus fruit,tropical fruit,whole milk,yogurt",4,42.341322374349424
+2389,"liver loaf,curd,rolls/buns,newspapers",4,16.47750951574244
+2390,"frankfurter,frozen dessert,rolls/buns",3,19.756575056424882
+2391,"whole milk,napkins",2,11.7111640981148
+2392,"whole milk,shopping bags",2,21.710963878792537
+2393,"grapes,pastry,coffee,hair spray",4,21.114534425611893
+2394,"pip fruit,cream cheese,rolls/buns",3,12.09009221434387
+2395,"tropical fruit,whole milk,yogurt",3,30.55476166677988
+2396,"whipped/sour cream,frozen vegetables,flour,flower (seeds)",4,31.438941074083196
+2397,"tropical fruit,pasta,candy",3,28.297880470820704
+2398,"frankfurter,pip fruit,other vegetables,yogurt",4,15.243714570639307
+2399,"berries,whipped/sour cream",2,19.15177709700067
+2400,"chicken,whole milk,rolls/buns,pasta",4,25.847451939914436
+2401,"other vegetables,chocolate",2,17.28364684306704
+2402,"frankfurter,yogurt,domestic eggs",3,15.793581551254496
+2403,"soda,chocolate,candy",3,30.474047785957065
+2404,"tropical fruit,beverages",2,26.297041018516786
+2405,"butter,rolls/buns,soda,specialty bar",4,20.39690006835934
+2406,"other vegetables,rolls/buns,canned fish",3,10.950989601975014
+2407,"curd,zwieback",2,11.679706378331673
+2408,"whole milk,shopping bags",2,21.710963878792537
+2409,"frozen meals,cereals,shopping bags",3,34.40061185642792
+2410,"soda,chocolate",2,23.544541902960763
+2411,"frozen vegetables,specialty chocolate",2,14.029734920142346
+2412,"yogurt,frozen vegetables,cat food",3,28.61299565053523
+2413,"whole milk,yogurt,pastry,waffles",4,29.737006650331246
+2414,"yogurt,dog food,newspapers",3,18.84876535479942
+2415,"tropical fruit,berries,whipped/sour cream",3,33.550885689001625
+2416,"grapes,cream cheese",2,8.032351803777214
+2417,"frankfurter,tropical fruit",2,17.797777527890027
+2418,"baking powder,misc. beverages,shopping bags",3,29.925353031581242
+2419,"processed cheese,soda",2,19.615173989490536
+2420,"jam,cocoa drinks,soda",3,16.93697729701874
+2421,"pip fruit,hygiene articles",2,10.297825139624404
+2422,"whole milk,canned fish,cat food,pet care",4,29.957595511869005
+2423,"chewing gum,shopping bags",2,24.413179350577366
+2424,"chicken,other vegetables,whole milk,pastry",4,23.16401656507612
+2425,"yogurt,tea,fruit/vegetable juice,hygiene articles",4,23.94916626347294
+2426,"whole milk,beverages",2,20.687989185968924
+2427,"beverages,rolls/buns,chewing gum",3,27.837707304508555
+2428,"pastry,oil",2,13.222027617044112
+2429,"processed cheese,bottled water,soda",3,21.97282166328595
+2430,"beef,other vegetables,waffles,pot plants",4,39.35911152119519
+2431,"soda,misc. beverages,salty snack,chewing gum",4,30.28857106088445
+2432,"beef,tropical fruit,yogurt",3,36.41122900605975
+2433,"soda,specialty chocolate",2,14.252408128060054
+2434,"tropical fruit,root vegetables,other vegetables,napkins",4,21.926410371229345
+2435,"rolls/buns,soda",2,13.416923195989472
+2436,"rolls/buns,soda,detergent",3,23.629226118885875
+2437,"chicken,other vegetables,rolls/buns,shopping bags",4,25.717561793318282
+2438,"whole milk,salty snack",2,12.224325548983932
+2439,"whole milk,soda,cleaner",3,21.081738572541287
+2440,"processed cheese,brown bread",2,17.676349539741594
+2441,"curd,dishes",2,19.882393106337858
+2442,"chicken,other vegetables",2,8.349152027224033
+2443,"finished products,pip fruit,yogurt,chocolate",4,35.880724682839016
+2444,"rolls/buns,soda,cleaner",3,16.739184459843003
+2445,"fruit/vegetable juice,pot plants,shopping bags",3,29.89547972815844
+2446,"other vegetables,dessert,white bread",3,20.597194647716012
+2447,"frozen vegetables,frozen fish",2,18.887084761901427
+2448,"frozen vegetables,seasonal products,hygiene articles,newspapers",4,27.001657460956366
+2449,"yogurt,rolls/buns",2,11.813098962080637
+2450,"other vegetables,yogurt,whipped/sour cream,waffles",4,25.245919019960652
+2451,"rolls/buns,soda",2,13.416923195989472
+2452,"chicken,long life bakery product,chocolate",3,21.561137646100644
+2453,"tropical fruit,pip fruit",2,16.17003242208442
+2454,"frozen dessert,soda",2,20.879824023015672
+2455,"yogurt,frozen fish,rolls/buns",3,21.953436382665103
+2456,"ice cream,white bread,candles",3,35.137030820372786
+2457,"tropical fruit,dishes",2,26.9729424348396
+2458,"pasta,soda,long life bakery product",3,17.284076299549568
+2459,"soda,misc. beverages,waffles,shopping bags",4,35.83948295660846
+2460,"chewing gum,chocolate,specialty chocolate",3,31.350381163789404
+2461,"waffles,chocolate",2,22.131667150879423
+2462,"long life bakery product,detergent",2,11.557692677387857
+2463,"pastry,margarine,candy",3,23.052103124935275
+2464,"coffee,shopping bags",2,15.658104754318888
+2465,"whole milk,condensed milk",2,19.194266581468682
+2466,"tropical fruit,whole milk,chocolate,newspapers",4,38.59361176562112
+2467,"curd,chewing gum,specialty chocolate,newspapers",4,24.9131441340035
+2468,"whole milk,frozen meals,ice cream",3,29.219131540080124
+2469,"other vegetables,frozen vegetables,ice cream",3,20.0637766614664
+2470,"frankfurter,curd,soda",3,19.676648748622952
+2471,"cat food,soda,specialty chocolate",3,26.753060121952494
+2472,"whole milk,bottled water",2,11.147704433248506
+2473,"yogurt,cake bar",2,17.201640556495466
+2474,"butter milk,rolls/buns",2,18.385594985059534
+2475,"coffee,soda,chocolate marshmallow",3,25.156874443385973
+2476,"frozen meals,ice cream,brown bread",3,27.459670880112753
+2477,"tropical fruit,bottled water",2,16.756756265796373
+2478,"other vegetables,uht-milk,sugar,soda",4,26.501204877489606
+2479,"meat,yogurt,napkins",3,22.153227686030533
+2480,"tropical fruit,white bread,spices,instant food products",4,31.44379382235033
+2481,"rolls/buns,soda",2,13.416923195989472
+2482,"pastry,soda,waffles",3,22.550774124786987
+2483,"whole milk,baking powder,bottled water,newspapers",4,22.58886591505026
+2484,"whole milk,dessert",2,12.580242320690912
+2485,"margarine,candles,newspapers",3,23.35715791640799
+2486,"chicken,root vegetables,uht-milk,specialty chocolate",4,24.670943863063368
+2487,"root vegetables,other vegetables,whole milk,flour",4,18.077008707008314
+2488,"whipped/sour cream,rolls/buns,pastry,bottled water",4,20.445209517089772
+2489,"cream cheese,zwieback",2,10.242812852338055
+2490,"citrus fruit,root vegetables,butter milk,oil",4,34.81954183574513
+2491,"curd,yogurt",2,14.674155578825046
+2492,"beverages,rolls/buns",2,16.345435073270636
+2493,"soda,fruit/vegetable juice,long life bakery product",3,12.841866776577156
+2494,"chicken,tropical fruit,other vegetables,shopping bags",4,35.66916773856443
+2495,"rolls/buns,canned fish,soda,newspapers",4,18.041209722309713
+2496,"semi-finished bread,fruit/vegetable juice,newspapers",3,6.41958688591087
+2497,"condensed milk,coffee",2,13.141407456995035
+2498,"whole milk,pastry",2,14.814864537852088
+2499,"citrus fruit,newspapers",2,12.615885768010525
+2500,"grapes,berries,waffles",3,21.253757542285058
+2501,"chicken,citrus fruit,root vegetables",3,19.32485619667838
+2502,"root vegetables,sugar,cat food",3,17.37191898890303
+2503,"tropical fruit,butter milk",2,28.337200930305684
+2504,"spread cheese,rolls/buns",2,13.46834894333163
+2505,"pip fruit,semi-finished bread,soups",3,11.363336514176165
+2506,"yogurt,pet care",2,12.23752160797004
+2507,"other vegetables,butter,margarine,specialty fat",4,21.27848704281103
+2508,"beverages,cake bar",2,21.733976667685468
+2509,"pip fruit,whole milk,domestic eggs",3,15.590296889576152
+2510,"frozen meals,frozen fish",2,21.960908370403
+2511,"butter,uht-milk,domestic eggs,waffles",4,30.3120942436945
+2512,"pip fruit,brown bread",2,8.801519929569189
+2513,"other vegetables,yogurt,whipped/sour cream,white bread",4,31.787856819944576
+2514,"beef,root vegetables,other vegetables,whole milk",4,28.042775298752733
+2515,"rolls/buns,soda,waffles,newspapers",4,21.802794053583774
+2516,"beef,rolls/buns",2,19.094026745487767
+2517,"soda,chocolate",2,23.544541902960763
+2518,"whole milk,bottled water",2,11.147704433248506
+2519,"brown bread,pastry,long life bakery product",3,14.400793632376176
+2520,"chicken,citrus fruit,other vegetables",3,20.13571273479358
+2521,"curd,yogurt",2,14.674155578825046
+2522,"rolls/buns,brown bread",2,11.47809874624053
+2523,"beef,other vegetables,newspapers",3,18.18437464851488
+2524,"chocolate,candy",2,21.5046272367224
+2525,"uht-milk,candy,napkins",3,21.70027401678716
+2526,"rolls/buns,fruit/vegetable juice,specialty chocolate,newspapers",4,13.086871758872203
+2527,"grapes,root vegetables,other vegetables,domestic eggs",4,11.796196806877893
+2528,"beef,yogurt,margarine",3,32.10990987759877
+2529,"canned fish,fruit/vegetable juice,make up remover",3,10.902084373049249
+2530,"whole milk,pastry,sugar,newspapers",4,18.617787642077914
+2531,"rolls/buns,soda",2,13.416923195989472
+2532,"liver loaf,root vegetables,other vegetables",3,8.498316985614123
+2533,"whole milk,curd,hard cheese,bottled water",4,25.787158685823144
+2534,"soda,chocolate,specialty bar,napkins",4,27.56905476261991
+2535,"frankfurter,chicken,citrus fruit,root vegetables",4,22.72352513256745
+2536,"rolls/buns,house keeping products,light bulbs",3,27.02526284915178
+2537,"beef,packaged fruit/vegetables,pot plants",3,39.69068567332809
+2538,"semi-finished bread,instant coffee",2,7.970481774526737
+2539,"chicken,beef,rolls/buns,instant coffee",4,29.641929705278734
+2540,"pastry,soda,shopping bags",3,27.915135446973107
+2541,"beverages,popcorn",2,14.109018007263302
+2542,"other vegetables,whole milk,rice,fruit/vegetable juice",4,24.920546464450503
+2543,"tropical fruit,shopping bags",2,27.320015711340403
+2544,"pastry,coffee,waffles",3,16.318551210531766
+2545,"chicken,beef,flour,salty snack",4,28.402176933135433
+2546,"pip fruit,grapes",2,3.9316098963550794
+2547,"citrus fruit,other vegetables,domestic eggs,shopping bags",4,32.44530961628953
+2548,"frozen meals,cat food,hair spray",3,34.513065889672816
+2549,"ice cream,bottled water,soda",3,19.935572053838577
+2550,"processed cheese,soda,shopping bags",3,32.536081108829976
+2551,"grapes,popcorn",2,4.371771647019087
+2552,"tropical fruit,yogurt,cream cheese,long life bakery product",4,28.981760399323843
+2553,"citrus fruit,margarine",2,21.884350171109524
+2554,"whipped/sour cream,salt",2,14.724007620727914
+2555,"bottled water,napkins",2,5.278755012457122
+2556,"grapes,misc. beverages,fruit/vegetable juice",3,11.08035203000367
+2557,"frankfurter,processed cheese",2,14.044422376144938
+2558,"root vegetables,other vegetables",2,4.606194440566682
+2559,"other vegetables,whole milk,napkins",3,14.419689587455741
+2560,"beef,whipped/sour cream",2,22.261775516873513
+2561,"other vegetables,cream cheese",2,8.58019122684654
+2562,"curd,yogurt",2,14.674155578825046
+2563,"citrus fruit,domestic eggs,bottled water,soda",4,28.142945230639224
+2564,"whole milk,newspapers",2,9.61938181989407
+2565,"frozen dessert,semi-finished bread",2,14.973608826399866
+2566,"fruit/vegetable juice,cake bar,newspapers",3,13.192425774461647
+2567,"soda,salty snack,specialty chocolate",3,17.686676917590894
+2568,"whole milk,rolls/buns",2,13.237559406207899
+2569,"other vegetables,butter,rolls/buns,flower (seeds)",4,23.42878429510532
+2570,"whole milk,waffles",2,16.346602556606417
+2571,"salty snack,candy",2,10.363774672527141
+2572,"pip fruit,chocolate marshmallow",2,15.22118008925533
+2573,"whole milk,butter,domestic eggs,baking powder",4,30.30778083222589
+2574,"pip fruit,specialty bar",2,2.874329351080905
+2575,"root vegetables,yogurt",2,9.26326526655157
+2576,"chocolate,candy,shopping bags",3,34.425534356061846
+2577,"other vegetables,fruit/vegetable juice,chewing gum",3,16.727854193429895
+2578,"frankfurter,whole milk,frozen vegetables,fruit/vegetable juice",4,23.462529509510155
+2579,"citrus fruit,other vegetables,spread cheese",3,23.515932493487313
+2580,"whipped/sour cream,cream cheese",2,13.486917155646152
+2581,"butter milk,yogurt,salty snack,specialty chocolate",4,30.020945021986783
+2582,"pastry,soda",2,14.994228327633662
+2583,"whole milk,domestic eggs,brown bread,pastry",4,26.87477693737741
+2584,"yogurt,cereals,specialty bar",3,18.128135623593213
+2585,"cream cheese,chocolate marshmallow",2,19.321921996677464
+2586,"frankfurter,whole milk,yogurt,napkins",4,22.4754293493297
+2587,"cereals,salty snack",2,13.09340257680078
+2588,"tropical fruit,yogurt,soda",3,30.734125456561454
+2589,"whole milk,brown bread,margarine",3,25.918442322478796
+2590,"tropical fruit,whole milk",2,23.18916535145405
+2591,"rolls/buns,sugar",2,7.421100690539655
+2592,"grapes,other vegetables,butter,newspapers",4,11.575107967425962
+2593,"root vegetables,whole milk,brown bread,margarine",4,27.816111273704536
+2594,"whole milk,domestic eggs",2,13.819373059492687
+2595,"meat,citrus fruit,whole milk",3,32.44314149906563
+2596,"grapes,other vegetables,pastry,dish cleaner",4,17.732722157660348
+2597,"frozen vegetables,pasta,bottled water,soda",4,27.043081560170485
+2598,"baking powder,newspapers,flower (seeds)",3,21.837346289438898
+2599,"curd,bottled water,soda",3,18.635627486529295
+2600,"meat,dessert,uht-milk,fruit/vegetable juice",4,30.033426861261
+2601,"pet care,bottled water,misc. beverages,shopping bags",4,26.54308957666009
+2602,"rolls/buns,photo/film",2,14.086600246978689
+2603,"berries,root vegetables,whipped/sour cream,soda",4,30.018866597461077
+2604,"yogurt,abrasive cleaner",2,19.0879590193873
+2605,"rolls/buns,pickled vegetables,chewing gum,specialty chocolate",4,26.969045309842276
+2606,"frankfurter,other vegetables,whole milk,whipped/sour cream",4,22.51250260282366
+2607,"meat,citrus fruit,hard cheese,soda",4,39.95340027792263
+2608,"berries,other vegetables,semi-finished bread",3,17.30825652081992
+2609,"meat,specialty chocolate",2,17.149511610868384
+2610,"pastry,fruit/vegetable juice",2,8.551864251250029
+2611,"pip fruit,coffee",2,4.508121465062908
+2612,"root vegetables,white bread,chewing gum",3,27.488424779600912
+2613,"yogurt,long life bakery product,photo/film,pot plants",4,32.79759980600913
+2614,"berries,herbs,pot plants",3,34.67996535880532
+2615,"citrus fruit,cream cheese",2,17.658226445075147
+2616,"frankfurter,rolls/buns",2,7.846171582643876
+2617,"cleaner,female sanitary products",2,15.890028384083946
+2618,"beef,root vegetables,yogurt,whipped/sour cream",4,31.525040783425084
+2619,"bottled water,napkins",2,5.278755012457122
+2620,"other vegetables,whole milk,soda,shopping bags",4,33.388909917368146
+2621,"root vegetables,herbs,whipped/sour cream,domestic eggs",4,23.238160213383125
+2622,"butter,bottled water,detergent,soap",4,28.04250013824967
+2623,"root vegetables,whole milk,long life bakery product",3,12.03311546517029
+2624,"citrus fruit,whipped/sour cream,pastry",3,25.426619904109096
+2625,"pastry,oil,margarine",3,23.31981708058409
+2626,"citrus fruit,domestic eggs",2,16.815877007609142
+2627,"soda,specialty chocolate",2,14.252408128060054
+2628,"roll products,newspapers",2,7.845066841525913
+2629,"other vegetables,zwieback,soda,chewing gum",4,27.541365384645985
+2630,"chicken,root vegetables,long life bakery product",3,8.883685243600288
+2631,"chicken,coffee",2,8.377824172862535
+2632,"specialty cheese,baking powder,waffles,chocolate",4,40.406370451285724
+2633,"seasonal products,shopping bags",2,21.819590868996936
+2634,"rolls/buns,newspapers",2,5.276827707195784
+2635,"whole milk,soda",2,17.759477308687757
+2636,"ice cream,bottled water,soda",3,19.935572053838577
+2637,"chicken,newspapers",2,6.469951598324068
+2638,"berries,waffles,specialty chocolate",3,24.37605905483883
+2639,"yogurt,whipped/sour cream",2,14.980847733466383
+2640,"uht-milk,pastry,margarine",3,27.972258037068123
+2641,"other vegetables,yogurt",2,10.074121804666772
+2642,"liver loaf,rolls/buns",2,8.339625191802247
+2643,"butter milk,hard cheese,instant coffee",3,26.176263749288026
+2644,"rolls/buns,pickled vegetables,specialty bar,dental care",4,18.69491245105245
+2645,"frankfurter,whole milk,pastry,potato products",4,31.88795348900146
+2646,"frankfurter,root vegetables,other vegetables,hard cheese",4,15.335758365531174
+2647,"whole milk,zwieback,soda",3,22.130624423520217
+2648,"frankfurter,whole milk",2,12.188725695342162
+2649,"dessert,rolls/buns,soda",3,17.207108757227292
+2650,"other vegetables,whole milk",2,11.498582248794033
+2651,"oil,hygiene articles",2,15.724121148186057
+2652,"tropical fruit,curd",2,21.707667855500173
+2653,"domestic eggs,rolls/buns,margarine",3,19.57460841033438
+2654,"tropical fruit,other vegetables,soda",3,26.077054630576566
+2655,"root vegetables,butter milk,cream cheese,spread cheese",4,30.72827332361289
+2656,"other vegetables,dessert,sugar",3,9.47230909436361
+2657,"other vegetables,rolls/buns,fruit/vegetable juice,cooking chocolate",4,20.98213586961013
+2658,"citrus fruit,pip fruit,ice cream,bottled water",4,24.523636042256925
+2659,"tropical fruit,rolls/buns,bottled water",3,21.20425891255118
+2660,"napkins,candles",2,15.35115073108874
+2661,"whole milk,yogurt,chocolate",3,30.73077442850502
+2662,"citrus fruit,whole milk,flour",3,25.257374974011178
+2663,"beef,other vegetables,pastry",3,23.379857366472898
+2664,"meat,soda",2,20.835944581277662
+2665,"other vegetables,whole milk,white bread,soda",4,34.56648639516595
+2666,"pip fruit,frozen vegetables,bottled water",3,12.875318845195839
+2667,"brown bread,oil,dishes",3,26.801649780969484
+2668,"other vegetables,whipped/sour cream,rolls/buns",3,14.771279554236301
+2669,"uht-milk,soda",2,20.819081344363816
+2670,"citrus fruit,whole milk,pastry",3,26.601425245421638
+2671,"uht-milk,bottled water",2,14.207308468924566
+2672,"whole milk,domestic eggs,specialty chocolate",3,19.102360638318075
+2673,"beef,other vegetables,pasta,instant food products",4,25.27117418513247
+2674,"berries,other vegetables,yogurt,whipped/sour cream",4,29.225898901667442
+2675,"chicken,whole milk,white bread",3,28.529166894473434
+2676,"napkins,dishes",2,15.494941181500348
+2677,"coffee,dish cleaner",2,9.57590045862824
+2678,"soap,dishes",2,22.16981203302407
+2679,"yogurt,soda",2,16.335016864560497
+2680,"whole milk,pastry,soda,specialty bar",4,24.887690608084196
+2681,"detergent,flower (seeds)",2,20.608487730533547
+2682,"tropical fruit,curd,newspapers",3,22.53699291594115
+2683,"meat,other vegetables",2,14.575049521383939
+2684,"beverages,chocolate",2,26.473053780241926
+2685,"whole milk,newspapers",2,9.61938181989407
+2686,"liver loaf,whole milk,curd,frozen meals",4,31.811309517818284
+2687,"frankfurter,light bulbs",2,16.27301349827748
+2688,"yogurt,frozen vegetables",2,16.11234365664279
+2689,"other vegetables,uht-milk",2,14.558186284470093
+2690,"tropical fruit,root vegetables,rolls/buns",3,20.744280189981502
+2691,"whole milk,soda",2,17.759477308687757
+2692,"onions,whole milk,coffee",3,14.36569519041976
+2693,"other vegetables,whole milk,soda,specialty bar",4,21.57140831902614
+2694,"cream cheese,white bread,instant food products,fruit/vegetable juice",4,23.444064408729005
+2695,"curd,specialty chocolate",2,12.591546842324602
+2696,"curd,yogurt",2,14.674155578825046
+2697,"other vegetables,butter milk,yogurt,fruit/vegetable juice",4,26.53927061582253
+2698,"soda,fruit/vegetable juice,chewing gum",3,22.98874925332362
+2699,"other vegetables,soda,specialty bar",3,12.781351559573048
+2700,"root vegetables,herbs,whole milk",3,19.38364925465607
+2701,"bottled water,soda,fruit/vegetable juice",3,13.854124695881115
+2702,"pastry,margarine,specialty bar,candy",4,24.155508645932716
+2703,"curd,soda",2,16.277979812733882
+2704,"whole milk,brown bread",2,15.820652858938816
+2705,"root vegetables,butter milk,specialty cheese,specialty bar",4,24.60203368957343
+2706,"whole milk,cream cheese,newspapers",3,15.491047557399668
+2707,"hygiene articles,shopping bags",2,21.447808428880386
+2708,"other vegetables,specialty cheese,bottled water,chocolate",4,27.30416139590798
+2709,"other vegetables,frozen meals,specialty chocolate",3,19.812084017984866
+2710,"tropical fruit,misc. beverages",2,20.791718082881978
+2711,"other vegetables,whole milk,brown bread,napkins",4,21.450285686941463
+2712,"whipped/sour cream,canned fish",2,11.410212884019817
+2713,"dessert,yogurt,soft cheese,soda",4,30.047978148343205
+2714,"yogurt,artif. sweetener,fruit/vegetable juice,shopping bags",4,29.677297283921067
+2715,"tropical fruit,curd,bottled water,napkins",4,26.986422867957295
+2716,"meat,whole milk,rolls/buns",3,25.104083438250896
+2717,"fish,whole milk",2,14.90849325539062
+2718,"coffee,bottled water,chocolate marshmallow",3,18.545101567946723
+2719,"pastry,semi-finished bread,sugar",3,12.061611174802705
+2720,"citrus fruit,pastry",2,17.811368485968543
+2721,"rolls/buns,margarine",2,14.545292110294785
+2722,"butter,salt,margarine,sugar",4,26.056715061284617
+2723,"whole milk,cream cheese",2,14.661722496958692
+2724,"root vegetables,ice cream",2,10.506172782034236
+2725,"whole milk,rolls/buns",2,13.237559406207899
+2726,"butter,butter milk,domestic eggs",3,24.84397998971675
+2727,"citrus fruit,other vegetables,brown bread",3,21.525682296396212
+2728,"tropical fruit,pip fruit,other vegetables,misc. beverages",4,25.271167402306386
+2729,"beef,yogurt,margarine",3,32.10990987759877
+2730,"bottled water,soda,napkins",3,14.248175561691788
+2731,"citrus fruit,pip fruit,berries,house keeping products",4,34.7974258565217
+2732,"other vegetables,oil",2,9.90574532798606
+2733,"dessert,soda,cake bar,shopping bags",4,35.51655747098157
+2734,"oil,ketchup,coffee",3,13.545895229507734
+2735,"root vegetables,other vegetables,butter,chocolate",4,25.057887145665205
+2736,"cream cheese,rolls/buns,fruit/vegetable juice",3,12.846224857111437
+2737,"whole milk,coffee",2,11.527254394432536
+2738,"nuts/prunes,yogurt,fruit/vegetable juice,specialty chocolate",4,26.14985095065078
+2739,"chicken,frozen meals,margarine,soda",4,36.52840750047627
+2740,"tropical fruit,frozen vegetables",2,23.145855933317918
+2741,"yogurt,vinegar",2,9.06518131420119
+2742,"waffles,candy",2,14.486051680149627
+2743,"chicken,cream cheese,rice",3,22.407200018194125
+2744,"rolls/buns,brown bread",2,11.47809874624053
+2745,"whole milk,brown bread,sugar",3,18.794250902723665
+2746,"whole milk,rolls/buns",2,13.237559406207899
+2747,"whole milk,yogurt",2,16.15565307477892
+2748,"soda,chewing gum,specialty bar",3,21.565098301470027
+2749,"frankfurter,canned fish,napkins,newspapers",4,10.94406280087102
+2750,"cat food,bottled water,hygiene articles",3,23.385200977228795
+2751,"grapes,soft cheese,bottled water",3,14.44110946261192
+2752,"frankfurter,herbs",2,12.094592479866307
+2753,"oil,soda,newspapers",3,16.99596544832076
+2754,"finished products,onions,salty snack",3,18.441792769221692
+2755,"curd,cat food",2,19.809211257391656
+2756,"whole milk,specialty cheese,frozen vegetables",3,25.199670979815576
+2757,"frozen meals,shopping bags",2,24.741478069157978
+2758,"jam,hygiene articles",2,15.359303453410194
+2759,"chewing gum,chocolate",2,26.067393584964016
+2760,"frankfurter,yogurt,rolls/buns",3,15.211767897969708
+2761,"other vegetables,whole milk,curd",3,18.80714151229325
+2762,"pastry,soda",2,14.994228327633662
+2763,"specialty bar,hygiene articles",2,9.63030683053838
+2764,"butter milk,frozen dessert,soda,shopping bags",4,47.738823480659846
+2765,"tropical fruit,pip fruit,yogurt",3,23.535628737410253
+2766,"chicken,pip fruit,soda",3,16.38097091720122
+2767,"uht-milk,coffee",2,14.586858430108594
+2768,"root vegetables,onions,shopping bags",3,17.65701686655241
+2769,"whole milk,pastry",2,14.814864537852088
+2770,"semi-finished bread,seasonal products",2,11.961889102276352
+2771,"condensed milk,frozen dessert",2,22.314613295796597
+2772,"butter milk,photo/film",2,23.57718993852861
+2773,"beef,whole milk,yogurt,pastry",4,36.82698495191088
+2774,"curd,brown bread,canned fruit,shopping bags",4,35.80154189405399
+2775,"other vegetables,domestic eggs",2,7.737841789380537
+2776,"waffles,shopping bags",2,20.47745291649277
+2777,"pastry,house keeping products",2,15.728223418407563
+2778,"waffles,detergent",2,17.768848720049725
+2779,"pip fruit,other vegetables,coffee",3,7.216646954403849
+2780,"yogurt,domestic eggs,pastry",3,18.419720393764422
+2781,"cream,cake bar",2,15.06051193417284
+2782,"yogurt,rolls/buns,chewing gum",3,23.305371193318557
+2783,"dessert,cream cheese,waffles",3,17.218397095896744
+2784,"whole milk,ice cream,shopping bags",3,30.319467709601035
+2785,"brown bread,vinegar",2,8.730181098361083
+2786,"other vegetables,rolls/buns",2,7.156028136095748
+2787,"whole milk,margarine",2,18.88784622299307
+2788,"yogurt,brown bread,coffee",3,17.133390049790997
+2789,"ice cream,pastry,soda,salty snack",4,27.037000947973
+2790,"chocolate marshmallow,candy",2,20.37976214216817
+2791,"hygiene articles,napkins",2,11.448008648202645
+2792,"finished products,yogurt,pasta",3,26.503945494852903
+2793,"tropical fruit,long life bakery product,chocolate",3,30.31961970021851
+2794,"coffee,photo/film",2,12.376295235203326
+2795,"frankfurter,rolls/buns,fruit/vegetable juice",3,10.37322805549491
+2796,"frankfurter,soda",2,12.368089485123736
+2797,"citrus fruit,tropical fruit,oil",3,33.382889138215624
+2798,"root vegetables,other vegetables,pastry,pickled vegetables",4,16.37728507198984
+2799,"other vegetables,rolls/buns,soda,chocolate",4,30.70057003905651
+2800,"meat,specialty chocolate",2,17.149511610868384
+2801,"whole milk,brown bread,flower (seeds)",3,26.216837666575962
+2802,"rolls/buns,pastry,soda",3,19.44173097438847
+2803,"soda,waffles",2,16.525966346387992
+2804,"condensed milk,rolls/buns,coffee,newspapers",4,18.41823516419082
+2805,"whole milk,beverages,pastry,newspapers",4,27.542122024808894
+2806,"chicken,citrus fruit,softener",3,19.151629901981032
+2807,"frozen vegetables,frozen meals,shopping bags",3,33.48822541047494
+2808,"whole milk,rolls/buns,specialty bar",3,14.34096492720534
+2809,"yogurt,pastry",2,13.390404093724825
+2810,"uht-milk,cream cheese,soda,waffles",4,34.24729287902274
+2811,"oil,detergent",2,17.409522761541517
+2812,"uht-milk,cream cheese,coffee,bottled water",4,22.816171841409606
+2813,"citrus fruit,curd cheese,abrasive cleaner,house keeping products",4,36.459673758361724
+2814,"beverages,pastry,newspapers",3,18.752065265355803
+2815,"pastry,newspapers",2,6.854132838839973
+2816,"whole milk,curd,bottled water",3,18.456263696747722
+2817,"whole milk,yogurt,frozen meals,bottled water",4,30.333871698392873
+2818,"yogurt,long life bakery product",2,8.710986069817288
+2819,"ice cream,long life bakery product,specialty chocolate,specialty bar",4,16.34028668512278
